@@ -1,0 +1,447 @@
+#app {
+  color:#4d4d4d;
+  font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+footer.page-footer {
+    background-color: #347ab6;
+}
+.nav{
+  background: #337ab7;
+}
+img#logo {
+    width: 17%;
+    vertical-align: middle;
+    float: left;
+}
+#lala .slider.fullscreen {
+    top: 9.5%;
+}
+
+.mainCarousel{
+  max-height: 650px;
+}
+.mainCarousel .carousel .carousel-item img {
+  width: 100%;
+  height: 750px;
+}
+
+.divInstalaciones{
+  width: 100%;
+  height: 100px;
+}
+.tabsInfo{
+  color: black;
+  background: blue;
+}
+.mapa{
+  width: 100%;
+}
+.tabstop{
+  margin-top: 6%;
+  background: white;
+}
+.center{
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+.facebookDiv{
+  margin-top: 3%;
+}
+.btnCarousel{
+  background: #337ab7;
+}
+.tabInfo p{
+  font-weight: bold;
+  text-align: left;
+}
+.fb_iframe_widget {
+    margin-left: 20%;
+}
+.tabInfo h2{
+  font-weight: bold;
+  text-align: left;
+}
+.bold{
+  font-weight: bold;
+  text-align: center;
+}
+.tabInfo a{
+  font-weight: bold;
+  text-align: center;
+}
+.divInfo2{
+  display: inline-block;
+  width: 55%;
+  MARGIN-TOP: 3%;
+  VERTICAL-ALIGN: TOP;
+  MARGIN-LEFT: 7%;
+}
+.divInfo2 img{
+  width: 100%;
+  BORDER-RADIUS: 10%;
+}
+.tabInfo{
+  display: inline-block;
+  width: 35%;
+}
+.btnCarousel:hover{
+  background: red;
+}
+.divContainerCard{
+  display: inline-block;
+  width: 40%;
+}
+.divCard{
+  display: inline-block;
+  width: 100%;
+  max-height: 100px;
+  margin-left: 6%;
+  margin-top: 0%;
+}
+
+
+.cardTitle{
+  text-align: center;
+}
+.cardText{
+  text-align: justify;
+}
+.seccionVideo{
+  display: inline-block;
+}
+.divMision{
+
+  margin-left: 8%;
+  margin-top: 5%;
+}
+.descripcionVideo{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+.video{
+  margin: 0 auto;
+  align-items: center;
+  width: 100%;
+}
+.video iframe {
+  margin: 0 auto;
+}
+.collapsible.popout {
+    margin-top: 7%;
+}
+
+.right-align {
+    margin-top: 16%;
+}
+.left-align {
+    margin-top: 16%;
+}
+
+#btnCards{
+  background: #337ab7;
+  margin-left: 80%;
+}
+
+#videoInstitucional{
+  margin: 0 auto;
+  margin-top: 3%;
+}
+
+.cardDatos{
+  margin-top: 2%;
+  width: 29.3%;
+  display: inline-block;
+  margin-left: 3%;
+  vertical-align: middle;
+}
+.header{
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+.card-content{
+  text-align: justify;
+}
+.divImagenMedia{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10%;  
+}
+.divImagenParalax{
+  display: none;
+}
+.divParalaxInstalaciones{
+  height: 100vh;
+}
+.carousel-item img{
+  max-height: 650px;
+}
+.divSpanInstalaciones{
+  font-size: 3em;
+  font-weight: bold;
+  color: #347ab6;
+  background: white;
+  text-align: center;
+  padding-bottom: 2%;
+  border-top: solid 1px;  
+  border-bottom: solid 1px;
+  padding-top: 2%;
+}
+.divSpanTratamiento{
+  font-size: 2em;
+  font-weight: bold;
+  color: black;
+  background: white;
+  text-align: center;
+  padding-bottom: 2%;
+  border-top: solid 1px;  
+  border-bottom: solid 1px;
+  padding-top: 2%;
+  
+}
+.divSpanInstalaciones2{
+  font-size: 1em;
+  font-weight: bold;
+  color: #347ab6;
+  background: white;
+  text-align: center;
+}
+.divFixed{
+  position: fixed;
+  z-index: 2000;
+  top: 0%;
+  width: 100%;
+}
+.divButtonRight{
+  margin-top: 3%;
+}
+i.material-icons.center.divMiddle {
+  vertical-align: middle;
+}
+.divDrawer{
+  font-size: 1.5em;
+}
+.divIcon{
+  vertical-align: middle;
+  color: white;
+  cursor: pointer;
+  
+}
+.divVideo, .divVision{
+  text-align: justify;
+  font-size: 1.5em;
+}
+.divCont{
+  font-size: 1.5em;
+}
+a.btn.right.btnFacebook {
+  background: white;
+  color: #3579b6;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+a.btn.btnFacebook:hover {
+  background: white;
+  color: #3579b6;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+a.btn.btnFacebook {
+  background: #3579b6;
+  color: white;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-top: 2%;
+}
+.btnGoogleMaps:hover{
+  background: white;
+  color:  red;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.btnGoogleMaps{
+  background: red;
+  color:  white;
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  
+}
+i.medium {
+  font-size: 3rem;
+}
+
+.solo_movil{
+  font-size: 1.5em;
+}
+.divRedes{
+  margin-top: 3%;
+  font-size: 1em;
+}
+.divMapa{
+  margin-top: 0%;
+}
+@media (max-width: 1224px) {
+  .cardDatos{
+    margin-top: 2%;
+    width: 29%;
+    display: inline-block;
+    font-size: 1em;
+    vertical-align: middle;
+  }
+body{
+  padding: 10px;
+}
+  .paralax{
+    display: none;
+  }
+  
+ 
+  .divIcon{
+    vertical-align: middle;
+    margin-top: 14%;
+    cursor: pointer;
+    
+    color: white;
+  }
+  .divButtonRight{
+    margin-top: 11%;
+  }
+  .divTitulo{
+    display: none;
+  }
+  .divFixed{
+    position: fixed;
+    z-index: 2000;
+    top: 0%;
+    width: 100%;
+  }
+
+  .divSpanTratamiento{
+    border-top: solid 0px;      
+    padding-bottom: 2%;
+    border-bottom: solid 0px;
+  }
+  .divSpanInstalaciones{
+    padding-bottom: 2%;
+    border-top: solid 0px;  
+    border-bottom: solid 0px;
+    padding-top: 2%;
+  }
+
+  .section{
+    display: none;
+  }
+
+  .divVideo, .divVision{
+    display: block;
+    width: 100%;
+  }
+  .divFooter{
+    font-size: 1.5em;
+  }
+ 
+  .btnContac{
+    font-size: .9em;
+  }
+  .divInformacionContacto{
+    font-size: 2.5em;
+  }
+  .divImagenMedia{
+    margin-top: 0%;
+    width: 100%;
+  }
+
+}
+@media (max-width: 875px) {
+  .instalacionesParallax{
+    display: none;
+  }
+  .cardDatos{
+    margin-top: 2%;
+    width: 45%;
+    display: inline-block;
+    margin-left: 3%;
+  }    
+}
+@media (max-width: 685px) {
+  .parallax,.parallax-container{
+    height: 300px;
+    max-height: 300px;
+    margin-top: 2%;
+  }
+body{
+  padding: 10px;
+}
+  .cardDatos{
+      margin-top: 2%;
+      width: 100%;
+      display: block;
+      margin-left: 0%;
+    }  
+  .mainCarousel{
+    height: 300px; 
+    max-height: 300px; 
+    
+  }
+  .cardDatos{
+    margin-top: 5%;
+    width: 100%;
+    display: block;
+    margin-left: 0%;
+  }
+  .mainCarousel img{
+    height: 300px;    
+    max-height: 300px;
+  }
+
+  .paralax{
+    display: none;
+  }
+
+  .section{
+    display: none;
+  }
+  .divIcon{
+    vertical-align: middle;
+    margin-top: 14%;
+    color: white;
+    cursor: pointer;
+  }
+  .divButtonRight{
+    margin-top: 11%;
+  }
+  .divTitulo{
+    display: none;
+  }
+  .divFixed{
+    position: fixed;
+    z-index: 2000;
+    top: 0%;
+    width: 100%;
+  }
+ 
+  .divSpanTratamiento{
+    border-top: solid 0px;      
+    padding-bottom: 2%;
+    border-bottom: solid 0px;
+  }
+  .divSpanInstalaciones{
+    padding-bottom: 2%;
+    border-top: solid 0px;  
+    border-bottom: solid 0px;
+    padding-top: 2%;
+  }
+  .divFac{
+    display: block;
+    width: 100%;
+  }    
+  .divCopy{
+    display: none;
+  }
+}
+  
