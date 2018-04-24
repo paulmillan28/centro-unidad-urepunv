@@ -1,4 +1,4 @@
-/*{
+{
     "extends": [
       "eslint:recommended",
       "plugin:import/errors",
@@ -69,4 +69,3 @@
       "react/wrap-multilines": 1
     }
   }
-  */
