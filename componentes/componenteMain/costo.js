@@ -50,7 +50,7 @@ class Costo extends Component {
               <CardModificado
                 titulo="PSICOLÓGO"
                 precio="150"
-                imagen="http://www.pvhc.net/img200/fcbypdqywsvewvmruwkk.png"
+                imagen="http://www.nexopsicologia.com/wp-content/uploads/2016/01/iconosNexo_empresa_v3.png"
                 descripcion="Único pago de $150." />
             </Col>
             <Col s={12} l={6} m={12}>
