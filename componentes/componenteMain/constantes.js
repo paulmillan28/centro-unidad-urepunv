@@ -2,7 +2,7 @@ export const datosCard = [
   {
     titulo: "¡Un año más ayudando a la comunidad!",
     descripcion: "Undécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
-    imagen: "http://urepunv.ml/img/ani/ani20172.jpeg",
+    imagen: "http://urepunv.ml/img/fachada.jpg",
     imagenes: [
       "http://urepunv.ml/img/ani/ani20173.jpeg", "http://urepunv.ml/img/ani/ani20174.jpeg", "http://urepunv.ml/img/ani/ani20175.jpeg"
     ]
@@ -18,17 +18,20 @@ export const datosCard = [
   {
     titulo: "¡ICATSIN nos apoya con cursos de soldadura!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
-    imagen: "http://urepunv.ml/img/soldadura/s2_opt.jpg",
+    imagen: "http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/4/files/original/learn.png",
     imagenes: [
-      "http://urepunv.ml/img/soldadura/s1_opt.jpg", "http://urepunv.ml/img/soldadura/s2_opt.jpg", "http://urepunv.ml/img/soldadura/s7_opt.jpg"
+      require('../../../public/icatsin/sold-one.jpg'),
+      require('../../../public/icatsin/sold-three.jpg'),
+      require('../../../public/icatsin/sold-two.png')
     ]
   },
   {
     titulo: "¡Nuevo establecimiento a la vista!",
     descripcion: "Este nuevo establecimiento que esta en construcción será dedicado al sexo femenino. En los últimos años se ha incrementado el número de mujeres en la adicción por lo que nuestra institución con una misión de ayudar a toda persona a la recuperación decidimos fundar una nueva clinica.",
-    imagen: "http://urepunv.ml/img/new2.jpg",
+    imagen: require('../../../public/renovacion/new-two.jpg'),
     imagenes: [
-      "http://urepunv.ml/img/new2.jpg", "http://urepunv.ml/img/new3.jpg", "http://urepunv.ml/img/new.jpg"
+      require('../../../public/renovacion/new-one.jpg'),
+      require('../../../public/renovacion/new-two.jpg')
     ]
   },
   {
@@ -44,7 +47,15 @@ export const datosCard = [
     descripcion: "Los usuarios del establecimiento disfrutaran de nuevas instalaciones, como lo son estufas de acero inoxidable con campana industrial, sillas, mesas, minisplit, etc.",
     imagen: "http://urepunv.ml/img/remo6.jpg",
     imagenes: [
-      "http://urepunv.ml/img/remo6.jpg", "http://urepunv.ml/img/remo2.jpg", "http://urepunv.ml/img/remo3.jpg", "http://urepunv.ml/img/remo4.jpg", "http://urepunv.ml/img/remo5.jpg"
+      "http://urepunv.ml/img/remo6.jpg", 
+      require('../../../public/renovacion/reno-one.jpg'),
+      require('../../../public/renovacion/reno-two.jpg'),
+      require('../../../public/renovacion/reno-three.jpg'),
+      "http://urepunv.ml/img/remo2.jpg", 
+      "http://urepunv.ml/img/remo3.jpg", 
+      require('../../../public/renovacion/reno-four.jpg'),
+      "http://urepunv.ml/img/remo4.jpg", 
+      "http://urepunv.ml/img/remo5.jpg"
     ]
   }
 ];
@@ -54,65 +65,73 @@ export const datosTratamiento = [
     titulo: "CONSEJERÍA DE ADICCIONES",
     descripcion: "Contamos con profesionales en la consejería para el tratamiento contra las adicciones. Estas personas se encuentran certificadas y debidamente preparadas para ayudar a los internos. ",
     imagenes: [
-      "http://urepunv.ml/img/certificaciones/new/consejeriaMama.jpg", "http://urepunv.ml/img/certificaciones/new/consejeriaPapa.jpg",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23131600_946102168880604_2662533270721822913_n.jpg?oh=b6df13c9cedece98e3721f7d3acee678&oe=5AED90AE",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/22196316_932469423577212_3106963311013080874_n.jpg?oh=caed6ff00159d0c541067233ff719b59&oe=5A7E08E0", "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/22154626_932469473577207_2545859183596281705_n.jpg?oh=fc99690ad61d4e9e8855039944f8a04b&oe=5AAE48BB",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23168044_949012935256194_1639698901530375538_n.jpg?oh=053b18ad63ad3e1ef891d501017250ff&oe=5AB32D0C", "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23131926_949012995256188_4470425551276304747_n.jpg?oh=038ac6e6a53aa85ba59cc1b9080fcb83&oe=5AFF2829",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23032629_946106768880144_2133001048187434851_n.jpg?oh=be18658784e4976c43683a304fcbd2b6&oe=5AF0E94A", "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23172620_946106795546808_2644233157486893165_n.jpg?oh=a7d2fa7455162339b2360f49e05b72b6&oe=5AF923BD",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23130929_946106852213469_6815745664136271955_n.jpg?oh=fa44c73e8abe27b0d12ebcf4b01f4839&oe=5AB4A197", "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/21730808_921165228040965_565387632305254588_n.jpg?oh=d049a2ce8eeaffd79f782c955179a406&oe=5AFEB657",
+      "http://urepunv.ml/img/certificaciones/new/consejeriaMama.jpg",
+      "http://urepunv.ml/img/certificaciones/new/consejeriaPapa.jpg",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23032629_946106768880144_2133001048187434851_n.jpg?oh=be18658784e4976c43683a304fcbd2b6&oe=5AF0E94A",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23172620_946106795546808_2644233157486893165_n.jpg?oh=a7d2fa7455162339b2360f49e05b72b6&oe=5AF923BD",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/21730808_921165228040965_565387632305254588_n.jpg?oh=d049a2ce8eeaffd79f782c955179a406&oe=5AFEB657",
       "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/21740329_921165168040971_4391020018975300799_n.jpg?oh=4ad116c5bf35effd2083fbc7daac8ec2&oe=5AF23A09"
     ],
-    imagen: "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/23131600_946102168880604_2662533270721822913_n.jpg?oh=b6df13c9cedece98e3721f7d3acee678&oe=5AED90AE"
+    imagen: "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/21730808_921165228040965_565387632305254588_n.jpg?oh=d049a2ce8eeaffd79f782c955179a406&oe=5AFEB657"
+
   },
   {
     titulo: "IMPARTICIÓN DE CURSOS ICATSIN",
     descripcion: "Gracias a ICATSIN contamos con diversos cursos sobre electricidad, mecánica, plomería, entre otros. Los usuarios pueden aprender estas profesiones técnicas durante la estancia en la agrupación. ",
     imagenes: [
-      "https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/22552600_941361972687957_7700353577024813160_n.jpg?oh=39422b738b04846cddf8b472e2d9c9f8&oe=5A6D55A8", "https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/22688029_941361969354624_5409065636300671124_n.jpg?oh=36f01bb8834394c1f7116a288007c5f8&oe=5A62786C", "https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/22688504_941361962687958_6420765347931920917_n.jpg?oh=ea57ba93ba313d32631b33b0848d098a&oe=5A74FAAC",
-      "http://urepunv.ml/img/soldadura/s6_opt.jpg", "http://urepunv.ml/img/soldadura/s4_opt.jpg", "http://urepunv.ml/img/soldadura/s5_opt.jpg"
+      require('../../../public/icatsin/sold-one.jpg'),
+      require('../../../public/icatsin/sold-three.jpg'),
+      require('../../../public/icatsin/sold-two.png')
     ],
-    imagen: "https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/22552600_941361972687957_7700353577024813160_n.jpg?oh=39422b738b04846cddf8b472e2d9c9f8&oe=5A6D55A8"
+    imagen: require('../../../public/icatsin/sold-one.jpg')
   },
   {
     titulo: "TERAPIA OCUPACIONAL",
     descripcion: "Es parte del tratamiento que se imparte en esta agrupación, nuestros grandes reconocimientos a nivel federal nos permite contar con áreas donde se pueden desempeñar practicando diversidades de servicios los cuales ayudan a mantener la mente ocupada.",
     imagenes: [
-      "http://urepunv.ml/img/ocupacional.png"
+      require('../../../public/cisne/cisne-one.jpg'),
+      require('../../../public/cisne/cisne-two.jpg')
     ],
-    imagen: "http://urepunv.ml/img/ctm/todos.jpg"
+    imagen: require('../../../public/cisne/cisne-one.jpg')
   },
   {
     titulo: "TERAPIA PSICOLÓGICA",
     descripcion: "Los usuarios cuentan con un psicólogo que los atendera con terapias individuales y también grupales, igualmente tambien tendrán terapias familiares.",
     imagenes: [
-      "http://urepunv.ml/img/nuevas/20170124_123025_opt.jpg", "http://urepunv.ml/img/nuevas/20170124_151047_opt.jpg"
+      require('../../../public/psicologo/psico-one.jpg'),
+      require('../../../public/psicologo/psico-two.jpg'),
+      require('../../../public/psicologo/psico-three.jpg')
     ],
-    imagen: "http://urepunv.ml/img/nuevas/20170124_123025_opt.jpg"
+    imagen: require('../../../public/psicologo/psico-one.jpg')
   },
 
   {
     titulo: "TERAPIA MÉDICA",
     descripcion: "Los usuarios cuentan con un médico que los atendera las 24 horas del día por cualquier problema y enfermedad, además de una valoración inicial. ",
     imagenes: [
-      "http://urepunv.ml/img/ctme/medico3.jpg", "http://urepunv.ml/img/ctme/medico.jpg", "http://urepunv.ml/img/ctme/medico4.jpg"
+      require('../../../public/medico/doc-one.jpg'),
+      require('../../../public/medico/doc-two.jpg')
     ],
-    imagen: "http://urepunv.ml/img/ctme/medico3.jpg"
+    imagen: require('../../../public/medico/doc-one.jpg')
   },
   {
     titulo: "TERAPIA DEPORTES",
-    descripcion: "El deporte ayuda a mejorar la forma y resistencia física, regula las cifras de presión arterial y mantiene la mente sana. En esta institución puede practicar volleyball y basketball.",
+    descripcion: "El deporte ayuda a mejorar la forma y resistencia física, regula las cifras de presión arterial y mantiene la mente sana. En esta institución puede practicar volleyball, basketball y karate",
     imagenes: [
-      "http://urepunv.ml/img/ctd/deporte.jpg", "http://urepunv.ml/img/ctd/deporte2.jpg", "http://urepunv.ml/img/ctd/deporte3.jpg"
+      "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/16194919_775149369309219_6776758572366649524_n.jpg?_nc_cat=0&oh=e93587c48d1b7d5a752e4871bf734805&oe=5B4FB7BA",
+      "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/16265947_775149365975886_7021847006243587600_n.jpg?_nc_cat=0&oh=3b7dacd6bce93381333bc4c58f8c28e7&oe=5B88DBEC",
+      "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/16298674_775149372642552_6904174208376631157_n.jpg?_nc_cat=0&oh=7f4fc0d1ad63a99ef78511e5306566c5&oe=5B98C0C9",
+      require('../../../public/deporte/karate-one.png')
     ],
-    imagen: "http://urepunv.ml/img/ctd/deporte.jpg"
+    imagen: "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/16298674_775149372642552_6904174208376631157_n.jpg?_nc_cat=0&oh=7f4fc0d1ad63a99ef78511e5306566c5&oe=5B98C0C9"
   },
   {
     titulo: "TERAPIA DE LECTURA",
     descripcion: "La lectura ayuda a aumentar la función cerebral, reducir estrés, dormir mejor, ser empático, eliminar depresión, fijar metas u objetivos entre muchas otras ventajas. En este establecimiento se cuenta con una biblioteca en la cual encontraran diversos libros sobre novelas, informativos, comedias, etc. ",
     imagenes: [
-      "http://urepunv.ml/img/nuevas/leyendo.jpg"
+      require('../../../public/lectura/book.jpg')
     ],
-    imagen: "http://urepunv.ml/img/nuevas/leyendo.jpg"
+    imagen: require('../../../public/lectura/book.jpg')
   },
 
   {
@@ -128,34 +147,14 @@ export const datosTratamiento = [
     titulo: "MANUALIDADES",
     descripcion: "Los usuarios también cuenta con un espacio de tiempo para crear arte, es decir, tienen la oportunidad de aprender a crear estas manualidades como el cisne de la imagen. ",
     imagenes: [
-      "http://urepunv.ml/img/ctm/cisne5.jpg", "http://urepunv.ml/img/ctm/todos.jpg", "http://urepunv.ml/img/ctm/cisne3.jpg", "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/22045891_928547607302727_8453655956977053004_n.jpg?oh=c6b9f83cba382f76d8ebe6ef787f50be&oe=5A624F95", "http://urepunv.ml/img/ctm/cisneRojo.jpg", "http://urepunv.ml/img/ctm/cisne2.jpg", "http://urepunv.ml/img/ctm/cisne4.jpg",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/22007829_928547650636056_8342518467987453316_n.jpg?oh=ac69456a29d9a8203765a2229a831478&oe=5AFCB022",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/22007765_928547580636063_5079169051302118254_n.jpg?oh=7eef3795dec4d790e874af3cd544de6a&oe=5AE7E83F"
+      require('../../../public/cisne/cisne-one.jpg'),
+      require('../../../public/cisne/cisne-two.jpg'),
+      require('../../../public/cisne/cisne-three.jpg'),
+      require('../../../public/cisne/cisne-four.jpg')
     ],
-    imagen: "http://urepunv.ml/img/ctm/cisne3.jpg"
+    imagen: require('../../../public/cisne/cisne-one.jpg')
   }
 ];
-
-
-export const constInstalaciones = {
-  titulo: "",
-  imagenes: [
-    "http://urepunv.ml/img/fachada.jpg",
-    "http://urepunv.ml/img/dormitorioC.jpg",
-    "http://urepunv.ml/img/grifo.jpg",
-    "http://urepunv.ml/img/ctd/deporte2.jpg",
-    "https://scontent.fcul1-1.fna.fbcdn.net/v/t1.0-9/22196316_932469423577212_3106963311013080874_n.jpg?oh=caed6ff00159d0c541067233ff719b59&oe=5A7E08E0",
-    "http://urepunv.ml/img/nuevas/20170125_201901_opt.jpg",
-    "https://scontent-dft4-3.xx.fbcdn.net/v/t1.0-9/22552600_941361972687957_7700353577024813160_n.jpg?oh=39422b738b04846cddf8b472e2d9c9f8&oe=5A6D55A8",
-    "http://urepunv.ml/img/nuevas/leyendo.jpg",
-    "http://urepunv.ml/img/nuevas/20170125_201944_opt.jpg",
-    "http://urepunv.ml/img/nuevas/20170125_202537_opt.jpg",
-    "http://urepunv.ml/img/comiendoC.jpg",
-    "http://urepunv.ml/img/remo3C.jpg",
-    "http://urepunv.ml/img/remo5C.jpg",
-    "http://urepunv.ml/img/remo6C.jpg"
-  ]
-};
 
 export const IMAGES =
   [{
@@ -167,8 +166,8 @@ export const IMAGES =
     caption: "Fachada principal del establecimiento"
   },
   {
-    src: "http://urepunv.ml/img/nuevas/20170124_123025_opt.jpg",
-    thumbnail: "http://urepunv.ml/img/nuevas/20170124_123025_opt.jpg",
+    src: require('../../../public/psicologo/psico-one.jpg'),
+    thumbnail: require('../../../public/psicologo/psico-one.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UREPUNV", title: "UREPUNV" }],
@@ -191,16 +190,16 @@ export const IMAGES =
     caption: "Zona de lavado"
   },
   {
-    src: "http://urepunv.ml/img/nuevas/leyendo.jpg",
-    thumbnail: "http://urepunv.ml/img/nuevas/leyendo.jpg",
+    src: require('../../../public/lectura/book.jpg'),
+    thumbnail: require('../../../public/lectura/book.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Zona de lectura", title: "Zona de lectura" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Zona de lectura del establecimiento"
   },
   {
-    src: "http://urepunv.ml/img/nuevas/20170125_201944_opt.jpg",
-    thumbnail: "http://urepunv.ml/img/nuevas/20170125_201944_opt.jpg",
+    src: require('../../../public/instalaciones/video.jpg'),
+    thumbnail: require('../../../public/instalaciones/video.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Pantalla de Video vigilancia", title: "Pantalla de Video vigilancia" }, { value: "UREPUNV", title: "UREPUNV" }],
@@ -215,12 +214,20 @@ export const IMAGES =
     caption: "Comedor principal del establecimiento"
   },
   {
-    src: "http://urepunv.ml/img/nuevas/20170125_202537_opt.jpg",
-    thumbnail: "http://urepunv.ml/img/nuevas/20170125_202537_opt.jpg",
+    src: require('../../../public/instalaciones/virgen.jpg'),
+    thumbnail: require('../../../public/instalaciones/virgen.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capilla", title: "Capilla" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Capilla de la virgen de guadalupe del establecimiento"
+  },
+  {
+    src: require('../../../public/instalaciones/office.jpg'),
+    thumbnail: require('../../../public/instalaciones/office.jpg'),
+    thumbnailWidth: 320,
+    thumbnailHeight: 174,
+    tags: [{ value: "Oficina", title: "Oficina" }, { value: "UREPUNV", title: "UREPUNV" }],
+    caption: "Oficina de recepción del establecimiento"
   },
   {
     src: "http://urepunv.ml/img/comiendoC.jpg",
@@ -262,14 +269,46 @@ export const IMAGES =
     thumbnailHeight: 212,
     tags: [{ value: "Zona de deporte", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Cancha de deportes"
+  },
+  {
+    src: require('../../../public/renovacion/reno-one.jpg'),
+    thumbnail: require('../../../public/renovacion/reno-one.jpg'),
+    thumbnailWidth: 300,
+    thumbnailHeight: 212,
+    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UREPUNV", title: "UREPUNV" }],
+    caption: "Sala de usos múltiples"
+  },
+  {
+    src: require('../../../public/renovacion/reno-three.jpg'),
+    thumbnail: require('../../../public/renovacion/reno-three.jpg'),
+    thumbnailWidth: 300,
+    thumbnailHeight: 212,
+    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UREPUNV", title: "UREPUNV" }],
+    caption: "Sala de usos múltiples"
+  },
+  {
+    src: require('../../../public/renovacion/reno-two.jpg'),
+    thumbnail: require('../../../public/renovacion/reno-two.jpg'),
+    thumbnailWidth: 300,
+    thumbnailHeight: 212,
+    tags: [{ value: "Recepción", title: "Recepción" }, { value: "UREPUNV", title: "UREPUNV" }],
+    caption: "Recepción"
+  },
+  {
+    src: require('../../../public/renovacion/reno-four.jpg'),
+    thumbnail: require('../../../public/renovacion/reno-four.jpg'),
+    thumbnailWidth: 300,
+    thumbnailHeight: 212,
+    tags: [{ value: "Recepción", title: "Recepción" }, { value: "UREPUNV", title: "UREPUNV" }],
+    caption: "Recepción"
   }
   ];
 
 
 export const IMAGES_CERTIFICACIONES =
   [{
-    src: "http://urepunv.ml/img/certificaciones/certificacion_opt.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/certificacion_opt.jpg",
+    src: require('../../../public/certificaciones/certi.jpg'),
+    thumbnail: require('../../../public/certificaciones/certi.jpg'),
     thumbnailWidth: 500,
     thumbnailHeight: 600,
     tags: [{ value: "CENADIC", title: "CENADIC" }, { value: "NIVEL NACIONAL", title: "NIVEL NACIONAL" }],
@@ -308,32 +347,32 @@ export const IMAGES_CERTIFICACIONES =
     caption: "Acciones para salvar una vida"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/terceraReunion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/terceraReunion.jpg",
+    src: require('../../../public/certificaciones/certi-one.jpg'),
+    thumbnail: require('../../../public/certificaciones/certi-one.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Zona de lectura" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "3era. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/cuartaReunion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/cuartaReunion.jpg",
+    src: require('../../../public/certificaciones/certi-two.jpg'),
+    thumbnail: require('../../../public/certificaciones/certi-two.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Pantalla de Video vigilancia" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "4ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/quintaReunion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/quintaReunion.jpg",
+    src: require('../../../public/certificaciones/certi-three.jpg'),
+    thumbnail: require('../../../public/certificaciones/certi-three.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "5ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/sextaReunion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/sextaReunion.jpg",
+    src: require('../../../public/certificaciones/certi-four.jpg'),
+    thumbnail: require('../../../public/certificaciones/certi-four.jpg'),
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Capilla" }, { value: "UREPUNV", title: "UREPUNV" }],
