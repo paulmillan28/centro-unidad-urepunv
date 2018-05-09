@@ -23,8 +23,7 @@ class CarouselM extends Component {
         fullWidth: true       
        } 
       );
-      window.setInterval(function () { $('.carousel.carousel-slider').carousel('next') }, 3000);
-      
+      window.setInterval(function () { $('.carousel.carousel-slider').carousel('next'); }, 3000);
     });
   }
 
@@ -33,7 +32,7 @@ class CarouselM extends Component {
       <div className="mainCarousel">
         <div className="carousel carousel-slider" data-indicators="true">
           {this.props.datos.map((row, index) => (
-            <a className="carousel-item" href=""><img src={row.imagen} /></a>
+            <a key={index} className="carousel-item" href=""><img src={row.imagen} /></a>
           ))}
         </div>
       </div>

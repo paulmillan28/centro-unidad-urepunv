@@ -24,7 +24,7 @@ render(){
   return(
     <div>
       {this.props.datos.map((row, index) => (
-        <div className = "cardDatos hoverable">
+        <div key = {index} className = "cardDatos hoverable">
             <Card >
                 <CardMedia
                   style={{height:'300px', cursor: 'pointer'}}

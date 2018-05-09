@@ -5,7 +5,6 @@ import { connect } from 'react-redux';
 import {bindActionCreators} from 'redux';
 import TituloCabecera from './componenteTonto';
 import CarouselM from './carousel';
-import {constInstalaciones} from './constantes';
 import {Row, Col,Parallax} from 'react-materialize';
 
 class Exito extends Component{
@@ -44,7 +43,7 @@ render(){
                      width="100%"
                      height="315"
                      src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                     frameborder="0"
+                     frameBorder="0"
                      allowFullScreen>
                  </iframe>
         </Col>
@@ -53,8 +52,8 @@ render(){
                      width="100%"
                      height="315"
                      src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                     frameborder="0"
-                     allowFullScreen = {true}>
+                     frameBorder="0"
+                     allowFullScreen>
                  </iframe>
         </Col>
         <Col s={12} m = {6} l ={4}>
@@ -62,7 +61,7 @@ render(){
                      width="100%"
                      height="315"
                      src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                     frameborder="0"
+                      frameBorder="0"
                      allowFullScreen>
                  </iframe>
         </Col>
@@ -73,7 +72,7 @@ render(){
                      width="100%"
                      height="315"
                      src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                     frameborder="0"
+                      frameBorder="0"
                      allowFullScreen>
                  </iframe>
         </Col>
@@ -82,8 +81,8 @@ render(){
                      width="100%"
                      height="315"
                      src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                     frameborder="0"
-                     allowFullScreen = {true}>
+                     frameBorder="0"
+                     allowFullScreen>
                  </iframe>
         </Col>
         <Col s={12} m = {6} l ={4}>
@@ -91,7 +90,7 @@ render(){
                      width="100%"
                      height="315"
                      src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                     frameborder="0"
+                     frameBorder="0"
                      allowFullScreen>
                  </iframe>
         </Col>

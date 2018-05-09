@@ -5,9 +5,8 @@ import { connect } from 'react-redux';
 import {bindActionCreators} from 'redux';
 import TituloCabecera from './componenteTonto';
 import CarouselM from './carousel';
-import {constInstalaciones} from './constantes';
+import { IMAGES_CERTIFICACIONES} from './constantes';
 import Gallery from 'react-grid-gallery';
-import {IMAGES_CERTIFICACIONES} from './constantes';
 import {Row, Col,Parallax} from 'react-materialize';
 
 class Certificaciones extends Component{

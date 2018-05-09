@@ -35,5 +35,11 @@ render(){
   );
 }
   }
+CardModificado.propTypes = {
+  titulo: PropTypes.string.isRequired,
+  imagen: PropTypes.string.isRequired,
+  descripcion: PropTypes.string.isRequired,
+  precio: PropTypes.string.isRequired
+};
 
 export default CardModificado;
