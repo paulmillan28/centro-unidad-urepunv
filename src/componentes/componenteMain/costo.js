@@ -50,7 +50,7 @@ render(){
           <CardModificado 
             titulo = "PSICOLÓGO" 
             precio = "150" 
-            imagen = "http://www.pvhc.net/img200/fcbypdqywsvewvmruwkk.png"
+            imagen = "http://riveroaks-wp.s3-us-west-2.amazonaws.com/wp-content/uploads/2016/05/04221818/Mental-Health-Flat-Line-Icon-C-85431392-650x616.png"
             descripcion = "Único pago de $150."/>
         </Col>
         <Col s={12} l={6} m={12}>

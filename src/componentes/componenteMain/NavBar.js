@@ -105,7 +105,6 @@ class NavBar extends Component {
             <MenuItem style={{ textAlign: 'center', borderBottom: 'solid 1px', marginTop: '2%' }} onClick={this.tratamiento}>Tratamiento</MenuItem>
             <MenuItem style={{ textAlign: 'center', borderBottom: 'solid 1px', marginTop: '2%' }} onClick={this.instalaciones} >Instalaciones</MenuItem>
             <MenuItem style={{ textAlign: 'center', borderBottom: 'solid 1px', marginTop: '2%' }} onClick={this.goContact}>Costo</MenuItem>
-            <MenuItem style={{ textAlign: 'center', fontWeight: 'bold', borderBottom: 'solid 1px', marginTop: '2%' }} onClick={this.exito}><u>Casos de Éxito</u></MenuItem>
             <MenuItem style={{ textAlign: 'center', fontWeight: 'bold', borderBottom: 'solid 1px', marginTop: '2%' }} onClick={this.certificaciones}><u>Certificaciones</u></MenuItem>
             <MenuItem style={{ textAlign: 'center', fontWeight: 'bold', borderBottom: 'solid 1px', marginTop: '2%' }}><Button className="red btnContac" onClick={this.contacto}>Contacto</Button></MenuItem>
           </Drawer>
