@@ -8,6 +8,16 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'index.js'
   },
+  devServer: {
+   contentBase: './src',
+   host: '0.0.0.0',
+port: 8081,
+historyApiFallback: {
+disableDotRule: true
+},
+   compress: true,
+   disableHostCheck: true
+  },
   plugins: [
     new webpack.EnvironmentPlugin(['NODE_ENV']),
     new CopyWebpackPlugin([
@@ -37,7 +47,7 @@ module.exports = {
       },
       {
 
-        test: /\.(jpg|png|gif|svg)$/,
+        test: /\.(jpg|png|gif|jpeg)$/,
         use: {
           loader: 'url-loader',
           options: {

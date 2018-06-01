@@ -4,10 +4,11 @@
   "description": "Starter kit for React and Redux Pluralsight course by Cory House",
   "scripts": {
     "lint": "eslint ./",
-    "start": "NODE_ENV=production webpack-dev-server --mode production --progress --colors --config ./webpack.config.js",
+    "start": "NODE_ENV=dev webpack-dev-server --mode development --progress --colors --config ./webpack.dev.config.js",
     "build:dev": "NODE_ENV=dev webpack-dev-server --mode development --progress --colors --config ./webpack.dev.config.js",
     "build:qa": " NODE_ENV=qa webpack --mode production --progress --colors --config ./webpack.config.js",
-    "build": "NODE_ENV=production webpack -p --config ./webpack.config.js"
+    "build": "NODE_ENV=production webpack -p --config ./webpack.config.js",
+
   },
   "author": "Cory House",
   "license": "MIT",
