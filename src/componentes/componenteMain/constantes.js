@@ -120,6 +120,7 @@ export const datosCard = [
       'https://storage.googleapis.com/centro-images/renovacion/reno-ten.jpg'
     ]
   },
+  {
     titulo: "¡Campaña de vacunación!",
     descripcion: "En nuestra agrupación contamos con el apoyo de los servicios de salud para vacunar a nuestros internos con el fín de tener mejor salud",
     imagen: 'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-one.jpg',
