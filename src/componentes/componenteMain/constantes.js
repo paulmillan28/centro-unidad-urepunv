@@ -86,10 +86,6 @@ export const datosCard = [
     descripcion: "Este nuevo establecimiento que esta en construcción será dedicado al sexo femenino. En los últimos años se ha incrementado el número de mujeres en la adicción por lo que nuestra institución con una misión de ayudar a toda persona a la recuperación decidimos fundar una nueva clinica.",
     imagen: 'https://storage.googleapis.com/centro-images/renovacion/new-two.jpg',
     imagenes: [
-<<<<<<< HEAD
-      'https://storage.googleapis.com/centro-images/renovacion/new-one.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-two.jpg'
-=======
       'https://storage.cloud.google.com/centro-images/renovacion/new-one.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-two.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-three.jpg',
@@ -100,7 +96,9 @@ export const datosCard = [
       'https://storage.cloud.google.com/centro-images/renovacion/new-eight.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-nine.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-ten.jpg'
->>>>>>> 14f1066aa028ea6cf8b5be44fc1271ed94d886a6
+<<<<<<< HEAD
+=======
+>>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ]
   },
   {
@@ -145,7 +143,7 @@ export const datosCard = [
     imagenes: [
       'https://storage.cloud.google.com/centro-images/corte-cabello/cut-one.jpg',
       'https://storage.cloud.google.com/centro-images/corte-cabello/cut-two.jpg'
->>>>>>> 14f1066aa028ea6cf8b5be44fc1271ed94d886a6
+>>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ]
   }
 ];
@@ -236,12 +234,6 @@ export const datosTratamiento = [
     titulo: "MANUALIDADES",
     descripcion: "Los usuarios también cuenta con un espacio de tiempo para crear arte, es decir, tienen la oportunidad de aprender a crear estas manualidades como el cisne de la imagen. ",
     imagenes: [
-<<<<<<< HEAD
-      'https://storage.googleapis.com/centro-images/cisne/cisne-one.jpg',
-      'https://storage.googleapis.com/centro-images/cisne/cisne-two.jpg',
-      'https://storage.googleapis.com/centro-images/cisne/cisne-three.jpg',
-      'https://storage.googleapis.com/centro-images/cisne/cisne-four.jpg'
-=======
       'https://storage.cloud.google.com/centro-images/cisne/cisne-one.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-two.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-three.jpg',
@@ -249,7 +241,9 @@ export const datosTratamiento = [
       'https://storage.cloud.google.com/centro-images/cisne/cisne-five.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-six.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-seven.jpg'
->>>>>>> 14f1066aa028ea6cf8b5be44fc1271ed94d886a6
+<<<<<<< HEAD
+=======
+>>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ],
     imagen: 'https://storage.googleapis.com/centro-images/cisne/cisne-one.jpg'
   }
