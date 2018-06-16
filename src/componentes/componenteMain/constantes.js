@@ -46,13 +46,8 @@ export const datosCard = [
   },
   {
     titulo: "¡Un año más ayudando a la comunidad!",
-<<<<<<< HEAD
-    descripcion: "Undécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
-    imagen: 'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
-=======
     descripcion: "Duodécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
     imagen: 'https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg',
->>>>>>> 14f1066aa028ea6cf8b5be44fc1271ed94d886a6
     imagenes: [
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-two.jpeg',
@@ -96,9 +91,6 @@ export const datosCard = [
       'https://storage.cloud.google.com/centro-images/renovacion/new-eight.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-nine.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-ten.jpg'
-<<<<<<< HEAD
-=======
->>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ]
   },
   {
@@ -113,7 +105,6 @@ export const datosCard = [
     ]
   },
   {
-<<<<<<< HEAD
     titulo: "¡Renovación total!",
     descripcion: "Los usuarios del establecimiento disfrutaran de nuevas instalaciones, como lo son estufas de acero inoxidable con campana industrial, sillas, mesas, minisplit, etc.",
     imagen: 'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
@@ -127,7 +118,6 @@ export const datosCard = [
       'https://storage.googleapis.com/centro-images/renovacion/reno-four.jpg',
       'https://storage.googleapis.com/centro-images/renovacion/reno-nine.jpg',
       'https://storage.googleapis.com/centro-images/renovacion/reno-ten.jpg'
-=======
     titulo: "¡Campaña de vacunación!",
     descripcion: "En nuestra agrupación contamos con el apoyo de los servicios de salud para vacunar a nuestros internos con el fín de tener mejor salud",
     imagen: 'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-one.jpg',
@@ -143,7 +133,6 @@ export const datosCard = [
     imagenes: [
       'https://storage.cloud.google.com/centro-images/corte-cabello/cut-one.jpg',
       'https://storage.cloud.google.com/centro-images/corte-cabello/cut-two.jpg'
->>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ]
   }
 ];
@@ -241,9 +230,6 @@ export const datosTratamiento = [
       'https://storage.cloud.google.com/centro-images/cisne/cisne-five.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-six.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-seven.jpg'
-<<<<<<< HEAD
-=======
->>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ],
     imagen: 'https://storage.googleapis.com/centro-images/cisne/cisne-one.jpg'
   }
