@@ -46,13 +46,8 @@ export const datosCard = [
   },
   {
     titulo: "¡Un año más ayudando a la comunidad!",
-<<<<<<< HEAD
-    descripcion: "Undécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
-    imagen: 'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
-=======
     descripcion: "Duodécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
     imagen: 'https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg',
->>>>>>> 14f1066aa028ea6cf8b5be44fc1271ed94d886a6
     imagenes: [
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-two.jpeg',
@@ -74,7 +69,7 @@ export const datosCard = [
   {
     titulo: "¡ICATSIN nos apoya con cursos de soldadura!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
-    imagen: "http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/4/files/original/learn.png",
+    imagen: "https://storage.googleapis.com/centro-images/certificaciones/learn.png",
     imagenes: [
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
@@ -96,9 +91,6 @@ export const datosCard = [
       'https://storage.cloud.google.com/centro-images/renovacion/new-eight.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-nine.jpg',
       'https://storage.cloud.google.com/centro-images/renovacion/new-ten.jpg'
-<<<<<<< HEAD
-=======
->>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ]
   },
   {
@@ -113,24 +105,9 @@ export const datosCard = [
     ]
   },
   {
-<<<<<<< HEAD
-    titulo: "¡Renovación total!",
-    descripcion: "Los usuarios del establecimiento disfrutaran de nuevas instalaciones, como lo son estufas de acero inoxidable con campana industrial, sillas, mesas, minisplit, etc.",
-    imagen: 'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-one.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-two.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-three.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-seven.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-eight.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-four.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-nine.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-ten.jpg'
-=======
     titulo: "¡Campaña de vacunación!",
     descripcion: "En nuestra agrupación contamos con el apoyo de los servicios de salud para vacunar a nuestros internos con el fín de tener mejor salud",
-    imagen: 'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-one.jpg',
+    imagen: 'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-two.jpg',
     imagenes: [
       'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-one.jpg',
       'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-two.jpg'
@@ -143,7 +120,6 @@ export const datosCard = [
     imagenes: [
       'https://storage.cloud.google.com/centro-images/corte-cabello/cut-one.jpg',
       'https://storage.cloud.google.com/centro-images/corte-cabello/cut-two.jpg'
->>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ]
   }
 ];
@@ -241,9 +217,6 @@ export const datosTratamiento = [
       'https://storage.cloud.google.com/centro-images/cisne/cisne-five.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-six.jpg',
       'https://storage.cloud.google.com/centro-images/cisne/cisne-seven.jpg'
-<<<<<<< HEAD
-=======
->>>>>>> aa077ffe6c42cd797d48ba85ac275efb38ba3854
     ],
     imagen: 'https://storage.googleapis.com/centro-images/cisne/cisne-one.jpg'
   }
@@ -408,32 +381,32 @@ export const IMAGES_CERTIFICACIONES =
     caption: "Certificación a  nivel nacional"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/cotzin.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/cotzin.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/cotzin.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/cotzin.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 174,
     tags: [{ value: "Premio Coltzin", title: "Sala de usos múltiples" }, { value: "NIVEL MUNICIPAL", title: "UREPUNV" }],
     caption: "Premio Coltzin al Director de este Centro de Rehabitilación"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/profe.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/profe.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/profe.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/profe.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 212,
     tags: [{ value: "CERTIFICADO", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Profesionales en Residencia"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/capacitacion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/capacitacion.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/capacitacion.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/capacitacion.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Purificador de agua" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Programa de Capacitación Básica en Adicciones"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/cr.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/cr.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/cr.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/cr.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Zona de lavado" }, { value: "UREPUNV", title: "UREPUNV" }],
@@ -472,16 +445,16 @@ export const IMAGES_CERTIFICACIONES =
     caption: "6ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/septimaReunion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/septimaReunion.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/septimaReunion.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/septimaReunion.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "7ma. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/etica.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/etica.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/etica.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/etica.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     tags: [{ value: "Capacitación", title: "Dormitorio" }, { value: "UREPUNV", title: "UREPUNV" }],
@@ -489,16 +462,16 @@ export const IMAGES_CERTIFICACIONES =
   },
 
   {
-    src: "http://urepunv.ml/img/certificaciones/normaOficial.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/normaOficial.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/normaOficial.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/normaOficial.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 212,
     tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Curso de Capacitación y actualización de la Norma Oficial Mexicana NOM-028-SSA2-1999, para la Prevención, Tratamiento y Control de las Adicciones."
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/new/basicoA.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/new/basicoA.jpg",
+    src: "https://storage.googleapis.com/centro-images/certificaciones/basicoA.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/certificaciones/basicoA.jpg",
     thumbnailWidth: 250,
     thumbnailHeight: 212,
     tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
