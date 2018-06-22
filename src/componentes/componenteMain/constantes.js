@@ -2,52 +2,52 @@ export const datosCard = [
   {
     titulo: "¡Que delicia!",
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación. ",
-    imagen: 'https://storage.cloud.google.com/centro-images/comida/food-one.jpg',
+    imagen: 'https://storage.googleapis.com/centro-images/comida/food-one.jpg',
     imagenes: [
-      'https://storage.cloud.google.com/centro-images/comida/food-one.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-two.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-three.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-four.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-five.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-six.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-seven.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-eight.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-nine.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-ten.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-eleven.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-twelve.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-two.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-three.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-four.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-six.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-seven.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-eight.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-nine.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-ten.jpg',
-      'https://storage.cloud.google.com/centro-images/comida/food-one-eleven.jpg'
+      'https://storage.googleapis.com/centro-images/comida/food-one.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-two.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-three.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-four.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-five.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-six.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-seven.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-eight.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-nine.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-ten.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-eleven.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-twelve.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-two.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-three.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-four.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-six.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-seven.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-eight.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-nine.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-ten.jpg',
+      'https://storage.googleapis.com/centro-images/comida/food-one-eleven.jpg'
     ]
   },
   {
     titulo: "¡Primeros auxilios!",
     descripcion: "Protección civil nos apoya con cursos de Primeros auxilios con el fín de capacitar a nuestros ingresados.",
-    imagen: 'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-one.jpg',
+    imagen: 'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-one.jpg',
     imagenes: [
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-one.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-two.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-three.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-four.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-five.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-six.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-seven.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-eight.jpg',
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-nine.jpg'
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-one.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-two.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-three.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-four.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-five.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-six.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-seven.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-eight.jpg',
+      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-nine.jpg'
     ]
   },
   {
     titulo: "¡Un año más ayudando a la comunidad!",
     descripcion: "Duodécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
-    imagen: 'https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg',
+    imagen: 'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
     imagenes: [
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-two.jpeg',
@@ -81,16 +81,16 @@ export const datosCard = [
     descripcion: "Este nuevo establecimiento que esta en construcción será dedicado al sexo femenino. En los últimos años se ha incrementado el número de mujeres en la adicción por lo que nuestra institución con una misión de ayudar a toda persona a la recuperación decidimos fundar una nueva clinica.",
     imagen: 'https://storage.googleapis.com/centro-images/renovacion/new-two.jpg',
     imagenes: [
-      'https://storage.cloud.google.com/centro-images/renovacion/new-one.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-two.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-three.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-four.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-five.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-six.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-seven.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-eight.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-nine.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-ten.jpg'
+      'https://storage.googleapis.com/centro-images/renovacion/new-one.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-two.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-three.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-four.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-five.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-six.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-seven.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-eight.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-nine.jpg',
+      'https://storage.googleapis.com/centro-images/renovacion/new-ten.jpg'
     ]
   },
   {
@@ -107,19 +107,19 @@ export const datosCard = [
   {
     titulo: "¡Campaña de vacunación!",
     descripcion: "En nuestra agrupación contamos con el apoyo de los servicios de salud para vacunar a nuestros internos con el fín de tener mejor salud",
-    imagen: 'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-two.jpg',
+    imagen: 'https://storage.googleapis.com/centro-images/campania-vacunacion/va-two.jpg',
     imagenes: [
-      'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-one.jpg',
-      'https://storage.cloud.google.com/centro-images/campania-vacunacion/va-two.jpg'
+      'https://storage.googleapis.com/centro-images/campania-vacunacion/va-one.jpg',
+      'https://storage.googleapis.com/centro-images/campania-vacunacion/va-two.jpg'
     ]
   },
   {
     titulo: "¡Corte de cabello!",
     descripcion: "ICATSIN nos apoya con cortes de cabello gratuito a nuestros internos",
-    imagen: 'https://storage.cloud.google.com/centro-images/corte-cabello/cut-one.jpg',
+    imagen: 'https://storage.googleapis.com/centro-images/corte-cabello/cut-one.jpg',
     imagenes: [
-      'https://storage.cloud.google.com/centro-images/corte-cabello/cut-one.jpg',
-      'https://storage.cloud.google.com/centro-images/corte-cabello/cut-two.jpg'
+      'https://storage.googleapis.com/centro-images/corte-cabello/cut-one.jpg',
+      'https://storage.googleapis.com/centro-images/corte-cabello/cut-two.jpg'
     ]
   }
 ];
@@ -210,13 +210,13 @@ export const datosTratamiento = [
     titulo: "MANUALIDADES",
     descripcion: "Los usuarios también cuenta con un espacio de tiempo para crear arte, es decir, tienen la oportunidad de aprender a crear estas manualidades como el cisne de la imagen. ",
     imagenes: [
-      'https://storage.cloud.google.com/centro-images/cisne/cisne-one.jpg',
-      'https://storage.cloud.google.com/centro-images/cisne/cisne-two.jpg',
-      'https://storage.cloud.google.com/centro-images/cisne/cisne-three.jpg',
-      'https://storage.cloud.google.com/centro-images/cisne/cisne-four.jpg',
-      'https://storage.cloud.google.com/centro-images/cisne/cisne-five.jpg',
-      'https://storage.cloud.google.com/centro-images/cisne/cisne-six.jpg',
-      'https://storage.cloud.google.com/centro-images/cisne/cisne-seven.jpg'
+      'https://storage.googleapis.com/centro-images/cisne/cisne-one.jpg',
+      'https://storage.googleapis.com/centro-images/cisne/cisne-two.jpg',
+      'https://storage.googleapis.com/centro-images/cisne/cisne-three.jpg',
+      'https://storage.googleapis.com/centro-images/cisne/cisne-four.jpg',
+      'https://storage.googleapis.com/centro-images/cisne/cisne-five.jpg',
+      'https://storage.googleapis.com/centro-images/cisne/cisne-six.jpg',
+      'https://storage.googleapis.com/centro-images/cisne/cisne-seven.jpg'
     ],
     imagen: 'https://storage.googleapis.com/centro-images/cisne/cisne-one.jpg'
   }
