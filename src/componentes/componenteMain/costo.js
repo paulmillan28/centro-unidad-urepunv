@@ -18,7 +18,7 @@ render(){
   return(
     <div>
     <Parallax 
-         imageSrc="http://urepunv.ml/img/ctm/cisne3.jpg"/>
+         imageSrc="https://storage.googleapis.com/centro-images/cisne/cisne-one.jpg"/>
       <Row/>
       <Row>
         <Col s={12}>
@@ -41,7 +41,7 @@ render(){
           <CardModificado 
             titulo = "DOCTOR" 
             precio = "150" 
-            imagen = "http://www.masadmin.net/wp-content/themes/masadmin/imgs/icon13.png"
+            imagen = "https://www.shareicon.net/data/512x512/2016/09/01/822712_user_512x512.png"
             descripcion = "Único pago de $150."/>
         </Col>
      </Row>
@@ -50,7 +50,7 @@ render(){
           <CardModificado 
             titulo = "PSICOLÓGO" 
             precio = "150" 
-            imagen = "http://riveroaks-wp.s3-us-west-2.amazonaws.com/wp-content/uploads/2016/05/04221818/Mental-Health-Flat-Line-Icon-C-85431392-650x616.png"
+            imagen = "https://images.vexels.com/media/users/3/131832/isolated/preview/c7df2c0a63e28536b241977b9fbe95de-icono-de-burbuja-de-psicolog-a-by-vexels.png"
             descripcion = "Único pago de $150."/>
         </Col>
         <Col s={12} l={6} m={12}>
@@ -66,7 +66,7 @@ render(){
           <CardModificado 
             titulo = "TRANSPORTE" 
             precio = "Depende de la lejanía del domicilio del usuario a ingresar." 
-            imagen = "http://freeflaticons.com/wp-content/uploads/2014/09/black-copy-14105284194nk8g.png"
+            imagen = "https://image.flaticon.com/icons/png/512/178/178779.png"
             descripcion = "Único pago"/>
         </Col>
      </Row>
