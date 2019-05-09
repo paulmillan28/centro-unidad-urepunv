@@ -397,32 +397,32 @@ export const IMAGES_CERTIFICACIONES =
     caption: "Certificación a  nivel nacional"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/cotzin.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/cotzin.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153533.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153533.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 174,
     tags: [{ value: "Premio Coltzin", title: "Sala de usos múltiples" }, { value: "NIVEL MUNICIPAL", title: "UREPUNV" }],
     caption: "Premio Coltzin al Director de este Centro de Rehabitilación"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/profe.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/profe.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153825.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153825.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 212,
     tags: [{ value: "CERTIFICADO", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Profesionales en Residencia"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/capacitacion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/capacitacion.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153903.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153903.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Purificador de agua" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Programa de Capacitación Básica en Adicciones"
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/cr.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/cr.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153916.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153916.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Zona de lavado" }, { value: "UREPUNV", title: "UREPUNV" }],
@@ -445,8 +445,8 @@ export const IMAGES_CERTIFICACIONES =
     caption: "4ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones"
   },
   {
-    src: 'https://storage.googleapis.com/centro-images/certificaciones/certi-three.jpg',
-    thumbnail: 'https://storage.googleapis.com/centro-images/certificaciones/certi-three.jpg',
+    src: 'https://storage.googleapis.com/centro-images/constancias/20170117_153745.jpg',
+    thumbnail: 'https://storage.googleapis.com/centro-images/constancias/20170117_153745.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
@@ -461,16 +461,16 @@ export const IMAGES_CERTIFICACIONES =
     caption: "6ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/septimaReunion.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/septimaReunion.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153837.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153837.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 174,
     tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "7ma. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/etica.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/etica.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153610.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153610.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
     tags: [{ value: "Capacitación", title: "Dormitorio" }, { value: "UREPUNV", title: "UREPUNV" }],
@@ -478,16 +478,16 @@ export const IMAGES_CERTIFICACIONES =
   },
 
   {
-    src: "http://urepunv.ml/img/certificaciones/normaOficial.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/normaOficial.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153722.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153722.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 212,
     tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
     caption: "Curso de Capacitación y actualización de la Norma Oficial Mexicana NOM-028-SSA2-1999, para la Prevención, Tratamiento y Control de las Adicciones."
   },
   {
-    src: "http://urepunv.ml/img/certificaciones/new/basicoA.jpg",
-    thumbnail: "http://urepunv.ml/img/certificaciones/new/basicoA.jpg",
+    src: "https://storage.googleapis.com/centro-images/constancias/20170117_153800.jpg",
+    thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153800.jpg",
     thumbnailWidth: 250,
     thumbnailHeight: 212,
     tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],

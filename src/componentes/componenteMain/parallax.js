@@ -24,7 +24,7 @@ render(){
           </div>
          <Parallax 
          className = "paralax"
-         imageSrc="http://urepunv.ml/img/fachada.jpg"/>
+         imageSrc="https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg"/>
        </div>
       );
   }

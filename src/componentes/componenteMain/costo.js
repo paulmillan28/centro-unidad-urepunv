@@ -18,7 +18,7 @@ render(){
   return(
     <div>
     <Parallax 
-         imageSrc="http://urepunv.ml/img/ctm/cisne3.jpg"/>
+         imageSrc="https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg"/>
       <Row/>
       <Row>
         <Col s={12}>
