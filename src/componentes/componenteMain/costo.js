@@ -34,7 +34,7 @@ render(){
           <CardModificado 
             titulo = "INGRESO" 
             precio = "2000" 
-            imagen = "https://icon-icons.com/icons2/1095/PNG/512/1485476049-artboard-1_78529.png"
+            imagen = "https://storage.googleapis.com/centro-images/inicio/registro.jpg"
             descripcion = "Se paga una sola vez y se tiene todo el tiempo que el usuario este en la agrupación para pagar."/>
         </Col>
         <Col s={12} l={6} m={12}>
@@ -57,7 +57,7 @@ render(){
           <CardModificado 
             titulo = "COMIDA" 
             precio = "350" 
-            imagen = "https://icon-icons.com/icons2/1151/PNG/512/1486505264-food-fork-kitchen-knife-meanns-restaurant_81404.png"
+            imagen = "https://storage.googleapis.com/centro-images/inicio/comida.png"
             descripcion = "El pago es cada semana."/>
         </Col>
      </Row>
