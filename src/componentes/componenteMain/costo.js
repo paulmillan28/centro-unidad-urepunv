@@ -34,7 +34,7 @@ render(){
           <CardModificado 
             titulo = "INGRESO" 
             precio = "2000" 
-            imagen = "https://storage.googleapis.com/centro-images/inicio/registro.jpg"
+            imagen = "https://storage.googleapis.com/centro-images/home/registro.jpg"
             descripcion = "Se paga una sola vez y se tiene todo el tiempo que el usuario este en la agrupación para pagar."/>
         </Col>
         <Col s={12} l={6} m={12}>
@@ -57,7 +57,7 @@ render(){
           <CardModificado 
             titulo = "COMIDA" 
             precio = "350" 
-            imagen = "https://storage.googleapis.com/centro-images/inicio/comida.png"
+            imagen = "https://storage.googleapis.com/centro-images/home/comida.png"
             descripcion = "El pago es cada semana."/>
         </Col>
      </Row>
