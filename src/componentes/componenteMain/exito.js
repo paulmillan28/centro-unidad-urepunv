@@ -1,10 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import TituloCabecera from './componenteTonto';
-import CarouselM from './carousel';
 import {Row, Col,Parallax} from 'react-materialize';
 
 class Exito extends Component{
@@ -15,12 +9,11 @@ class Exito extends Component{
     };
     this.closeLightbox = this.closeLightbox.bind(this);
   }
-  componentDidMount() {
-   
-  }
+
   closeLightbox(){
     this.setState({lightboxIsOpen : false});
   }
+  
 render(){
   return(
     <div>

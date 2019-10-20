@@ -28,23 +28,8 @@ render(){
       <ParallaxM/>
       <Row>
         <div className="divVideo z-depth-4">
-      <Col s={12} m={12} l={6}>
-                   <div >
-                     <h2 className="header">Video Institucional</h2>
-                     <p className="grey-text text-darken-3 lighten-3 divP">Te invitamos a ver nuestro video institucional, reflejando parte de lo que representamos en nuestra institución.</p>
-                   </div>
-              <div>
-                 <iframe
-                     width="100%"
-                     height="315"
-                     src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                     frameBorder="0"
-                     allowFullScreen>
-                 </iframe>
-              </div>
-      </Col>
       </div>
-           <Col s={12} m={12} l={6}>
+           <Col s={12} m={12} l={12}>
          <div className = "divVision">
              <Collapsible popout defaultActiveKey={1}>
                  <CollapsibleItem header="MISIÓN" icon="search">

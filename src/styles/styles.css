@@ -3,10 +3,10 @@
   font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 footer.page-footer {
-    background-color: #347ab6;
+    background-color: #8BD04F;
 }
 .nav{
-  background: #337ab7;
+  background: #8BD04F;
 }
 img#logo {
     width: 17%;
@@ -31,7 +31,7 @@ img#logo {
 }
 .tabsInfo{
   color: black;
-  background: blue;
+  background: #8BD04F;
 }
 .mapa{
   width: 100%;
@@ -49,7 +49,7 @@ img#logo {
   margin-top: 3%;
 }
 .btnCarousel{
-  background: #337ab7;
+  background: #8BD04F;
 }
 .tabInfo p{
   font-weight: bold;
@@ -140,7 +140,7 @@ img#logo {
 }
 
 #btnCards{
-  background: #337ab7;
+  background: #8BD04F;
   margin-left: 80%;
 }
 
@@ -181,7 +181,7 @@ img#logo {
 .divSpanInstalaciones{
   font-size: 3em;
   font-weight: bold;
-  color: #347ab6;
+  color: #8BD04F;
   background: white;
   text-align: center;
   padding-bottom: 2%;
@@ -204,7 +204,7 @@ img#logo {
 .divSpanInstalaciones2{
   font-size: 1em;
   font-weight: bold;
-  color: #347ab6;
+  color: #8BD04F;
   background: white;
   text-align: center;
 }

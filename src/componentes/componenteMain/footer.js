@@ -25,7 +25,7 @@ render(){
             <Footer  copyrights={<div className = "divCopy">&copy 2017 Copyright</div>}
                 moreLinks={
                   <div className = "divFac">
-                <a className="btn right btnFacebook" target = "_blank" href="https://www.facebook.com/urepunv">FACEBOOK</a>
+                <a className="btn right btnFacebook" target = "_blank" href="https://www.facebook.com/unidadterapeuticacostarica2019/?modal=admin_todo_tour">FACEBOOK</a>
                 </div>}
                 className="nav"
                 >

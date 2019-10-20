@@ -1,12 +1,5 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import TituloCabecera from './componenteTonto';
-import {Tab,Tabs} from 'material-ui/Tabs';
-import {Icon,MediaBox,Row,Col} from 'react-materialize';
-import FontIcon from 'material-ui/FontIcon';
+import {Icon,Row,Col} from 'react-materialize';
 import Divider from 'material-ui/Divider';
 
       const styles = {
@@ -43,12 +36,12 @@ render(){
                   <Divider/>
 
                  <Row className = "divRedes">
-                  <Col s = {12} m={12} l={6}> <a className="btn center btnFacebook" target = "_blank" href="https://www.facebook.com/urepunv">FACEBOOK</a></Col>
+                  <Col s = {12} m={12} l={6}> <a className="btn center btnFacebook" target = "_blank" href="https://www.facebook.com/unidadterapeuticacostarica2019/?modal=admin_todo_tour">FACEBOOK</a></Col>
                   <Col s = {12} m={12} l={6}> <a className="btn center btnGoogleMaps" target = "_blank" href="https://www.google.com.mx/maps/place/Centro+de+rehabilitaci%C3%B3n+Un+Rayo+de+Esperanza+Por+Una+Nueva+Vida-Urepunv/@24.6002953,-107.3873961,17z/data=!3m1!4b1!4m5!3m4!1s0x86a32c9d7c7ab265:0xaecdb56aa5a5c8be!8m2!3d24.6002953!4d-107.3852074">UBÍCANOS</a></Col>
                  </Row>
             <Divider/>
                  <p><b>Búscanos en Fb y Google Maps cómo:</b></p>
-                  <p>Centro de rehabilitación Un Rayo de Esperanza Por Una Nueva Vida-Urepunv</p> 
+                  <p>Unidad Terapéutica COSTA RICA</p> 
            <Divider/>
 
                </div>
