@@ -23,9 +23,14 @@ render(){
 
   return(
     <div>
+            <div class = "fb-post" data-href = "https://www.facebook.com/unidadterapeuticacostarica2019/posts/139383384123232" > </div>  
+
       <CarouselM datos = {datosCard}/>
         <Section datos = {datosCard}/>
       <ParallaxM/>
+      <div>
+
+      </div>
       <Row>
         <div className="divVideo z-depth-4">
       </div>

@@ -31,9 +31,9 @@ export const datosCard = [
   {
     titulo: "¡Primeros auxilios!",
     descripcion: "Protección civil nos apoya con cursos de Primeros auxilios con el fín de capacitar a nuestros ingresados.",
-    imagen: 'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-one.jpg',
+    imagen: 'https://lh3.googleusercontent.com/ZJ-_BTHhv701ekC7LK2lbo174tKsR9GgiskKQdO7daERQza5H6pOPvlopnIhwoFCLDJJ5rfqw8QHlgIeo2-bZ6EaP_TrCuxtLTeF2uE-kyACJQPa5ZMyzYRygVPmeg2Un1gMwM4yU9f5lTFlGRX8dFsLAW_KwNIe5c9P19iAQrOQo_uZ3pFr1Ja1NE5O509zGVucWG3nZvoBWodIUF08Gs6TvP7YyINRl4IfciI6ougvazgqFpYe76KPlo14K0iSirRBufBaRl1Mi2mnbjAprkY3GAyWjnPAC-6yoLK2TrMbxiP3R4GVag2iOHbt6ODgiM41uAqZ7TwZ2d8GrFfAa0rDw1VRYE84Ld-kEStnOJiDHOanOnmnaSukQUhna2GQ3K0g_b1-xJvnjXXmtahPh0V7JRfZBR-gH2ynXDHUYQP4yqjP_9nZVg4m5RYRHL7lXWi8odVuGFvT7EDZc7n-jNZrFh4zpfh5O1OFVbRtFL7DXuwKbN6pTYkUzuB_nEJCKjIP3vLPbWMMxhn7DhPo03PFEtqe380YhjZ0JifMtzRG1sj_yxivdAolkr0XfdqV7jeLigLw4BxyXjv_nl6g9aksvv3oF82QjwPukcoVIcorhACG162gQbtYgRAkGPOwEU7q9b9L_WS4cNWui-axzcunecbWreOjeh4ZeuCbkOocSv_gX62c9w=w960-h594-no',
     imagenes: [
-      'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-one.jpg',
+      'https://lh3.googleusercontent.com/ZJ-_BTHhv701ekC7LK2lbo174tKsR9GgiskKQdO7daERQza5H6pOPvlopnIhwoFCLDJJ5rfqw8QHlgIeo2-bZ6EaP_TrCuxtLTeF2uE-kyACJQPa5ZMyzYRygVPmeg2Un1gMwM4yU9f5lTFlGRX8dFsLAW_KwNIe5c9P19iAQrOQo_uZ3pFr1Ja1NE5O509zGVucWG3nZvoBWodIUF08Gs6TvP7YyINRl4IfciI6ougvazgqFpYe76KPlo14K0iSirRBufBaRl1Mi2mnbjAprkY3GAyWjnPAC-6yoLK2TrMbxiP3R4GVag2iOHbt6ODgiM41uAqZ7TwZ2d8GrFfAa0rDw1VRYE84Ld-kEStnOJiDHOanOnmnaSukQUhna2GQ3K0g_b1-xJvnjXXmtahPh0V7JRfZBR-gH2ynXDHUYQP4yqjP_9nZVg4m5RYRHL7lXWi8odVuGFvT7EDZc7n-jNZrFh4zpfh5O1OFVbRtFL7DXuwKbN6pTYkUzuB_nEJCKjIP3vLPbWMMxhn7DhPo03PFEtqe380YhjZ0JifMtzRG1sj_yxivdAolkr0XfdqV7jeLigLw4BxyXjv_nl6g9aksvv3oF82QjwPukcoVIcorhACG162gQbtYgRAkGPOwEU7q9b9L_WS4cNWui-axzcunecbWreOjeh4ZeuCbkOocSv_gX62c9w=w960-h594-no',
       'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-two.jpg',
       'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-three.jpg',
       'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-four.jpg',
@@ -47,9 +47,9 @@ export const datosCard = [
   {
     titulo: "¡Un año más ayudando a la comunidad!",
     descripcion: "Duodécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
-    imagen: 'https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg',
+    imagen: 'https://lh3.googleusercontent.com/ZJ-_BTHhv701ekC7LK2lbo174tKsR9GgiskKQdO7daERQza5H6pOPvlopnIhwoFCLDJJ5rfqw8QHlgIeo2-bZ6EaP_TrCuxtLTeF2uE-kyACJQPa5ZMyzYRygVPmeg2Un1gMwM4yU9f5lTFlGRX8dFsLAW_KwNIe5c9P19iAQrOQo_uZ3pFr1Ja1NE5O509zGVucWG3nZvoBWodIUF08Gs6TvP7YyINRl4IfciI6ougvazgqFpYe76KPlo14K0iSirRBufBaRl1Mi2mnbjAprkY3GAyWjnPAC-6yoLK2TrMbxiP3R4GVag2iOHbt6ODgiM41uAqZ7TwZ2d8GrFfAa0rDw1VRYE84Ld-kEStnOJiDHOanOnmnaSukQUhna2GQ3K0g_b1-xJvnjXXmtahPh0V7JRfZBR-gH2ynXDHUYQP4yqjP_9nZVg4m5RYRHL7lXWi8odVuGFvT7EDZc7n-jNZrFh4zpfh5O1OFVbRtFL7DXuwKbN6pTYkUzuB_nEJCKjIP3vLPbWMMxhn7DhPo03PFEtqe380YhjZ0JifMtzRG1sj_yxivdAolkr0XfdqV7jeLigLw4BxyXjv_nl6g9aksvv3oF82QjwPukcoVIcorhACG162gQbtYgRAkGPOwEU7q9b9L_WS4cNWui-axzcunecbWreOjeh4ZeuCbkOocSv_gX62c9w=w960-h594-no',
     imagenes: [
-      'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
+      'https://lh3.googleusercontent.com/ZJ-_BTHhv701ekC7LK2lbo174tKsR9GgiskKQdO7daERQza5H6pOPvlopnIhwoFCLDJJ5rfqw8QHlgIeo2-bZ6EaP_TrCuxtLTeF2uE-kyACJQPa5ZMyzYRygVPmeg2Un1gMwM4yU9f5lTFlGRX8dFsLAW_KwNIe5c9P19iAQrOQo_uZ3pFr1Ja1NE5O509zGVucWG3nZvoBWodIUF08Gs6TvP7YyINRl4IfciI6ougvazgqFpYe76KPlo14K0iSirRBufBaRl1Mi2mnbjAprkY3GAyWjnPAC-6yoLK2TrMbxiP3R4GVag2iOHbt6ODgiM41uAqZ7TwZ2d8GrFfAa0rDw1VRYE84Ld-kEStnOJiDHOanOnmnaSukQUhna2GQ3K0g_b1-xJvnjXXmtahPh0V7JRfZBR-gH2ynXDHUYQP4yqjP_9nZVg4m5RYRHL7lXWi8odVuGFvT7EDZc7n-jNZrFh4zpfh5O1OFVbRtFL7DXuwKbN6pTYkUzuB_nEJCKjIP3vLPbWMMxhn7DhPo03PFEtqe380YhjZ0JifMtzRG1sj_yxivdAolkr0XfdqV7jeLigLw4BxyXjv_nl6g9aksvv3oF82QjwPukcoVIcorhACG162gQbtYgRAkGPOwEU7q9b9L_WS4cNWui-axzcunecbWreOjeh4ZeuCbkOocSv_gX62c9w=w960-h594-no',
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-two.jpeg',
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-three.jpeg',
       'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-four.jpeg'
@@ -244,7 +244,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Fachada", title: "Fachada" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Fachada", title: "Fachada" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Fachada principal del establecimiento"
   },
   {
@@ -252,7 +252,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/psicologo/psico-one.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Sala de usos múltiples"
   },
   {
@@ -260,7 +260,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/grifo.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Purificador de agua", title: "Purificador de agua" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Purificador de agua", title: "Purificador de agua" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Zona de Purificación de agua"
   },
   {
@@ -268,7 +268,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/lavadora.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Zona de lavado", title: "Zona de lavado" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Zona de lavado", title: "Zona de lavado" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Zona de lavado"
   },
   {
@@ -276,7 +276,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/lectura/book.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Zona de lectura", title: "Zona de lectura" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Zona de lectura", title: "Zona de lectura" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Zona de lectura del establecimiento"
   },
   {
@@ -284,7 +284,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/instalaciones/video.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Pantalla de Video vigilancia", title: "Pantalla de Video vigilancia" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Pantalla de Video vigilancia", title: "Pantalla de Video vigilancia" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Pantalla de Video vigilancia del establecimiento"
   },
   {
@@ -292,7 +292,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/mesas.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Comedor", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Comedor", title: "Comedor" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Comedor principal del establecimiento"
   },
   {
@@ -300,7 +300,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/instalaciones/virgen.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Capilla", title: "Capilla" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capilla", title: "Capilla" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Capilla de la virgen de guadalupe del establecimiento"
   },
   {
@@ -308,7 +308,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/instalaciones/office.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Oficina", title: "Oficina" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Oficina", title: "Oficina" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Oficina de recepción del establecimiento"
   },
   {
@@ -316,7 +316,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/comiendo.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Comedor", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Comedor", title: "Comedor" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Comedor principal del establecimiento"
   },
   {
@@ -324,7 +324,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/reno-new-ten.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    tags: [{ value: "Dormitorio", title: "Dormitorio" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Dormitorio", title: "Dormitorio" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Uno de los Dormitorios"
   },
   {
@@ -332,7 +332,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    tags: [{ value: "Dormitorio", title: "Dormitorio" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Dormitorio", title: "Dormitorio" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Uno de los Dormitorios"
   },
 
@@ -341,7 +341,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/deporte/sport-one.jpg',
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "Zona de deporte", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Zona de deporte", title: "Zona de deporte" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Cancha de deportes"
   },
   {
@@ -349,7 +349,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/deporte/sport-three.jpg',
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "Zona de deporte", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Zona de deporte", title: "Zona de deporte" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Cancha de deportes"
   },
   {
@@ -357,7 +357,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/reno-one.jpg',
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Sala de usos múltiples"
   },
   {
@@ -365,7 +365,7 @@ export const IMAGES =
     thumbnail:'https://storage.googleapis.com/centro-images/renovacion/reno-three.jpg',
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Sala de usos múltiples", title: "Sala de usos múltiples" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Sala de usos múltiples"
   },
   {
@@ -373,7 +373,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/reno-two.jpg',
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "Recepción", title: "Recepción" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Recepción", title: "Recepción" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Recepción"
   },
   {
@@ -381,7 +381,7 @@ export const IMAGES =
     thumbnail: 'https://storage.googleapis.com/centro-images/renovacion/reno-four.jpg',
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "Recepción", title: "Recepción" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Recepción", title: "Recepción" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Recepción"
   }
   ];
@@ -401,7 +401,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153533.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 174,
-    tags: [{ value: "Premio Coltzin", title: "Sala de usos múltiples" }, { value: "NIVEL MUNICIPAL", title: "UREPUNV" }],
+    tags: [{ value: "Premio Coltzin", title: "Sala de usos múltiples" }, { value: "NIVEL MUNICIPAL", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Premio Coltzin al Director de este Centro de Rehabitilación"
   },
   {
@@ -409,7 +409,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153825.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "CERTIFICADO", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "CERTIFICADO", title: "Zona de deporte" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Profesionales en Residencia"
   },
   {
@@ -417,7 +417,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153903.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 174,
-    tags: [{ value: "Capacitación", title: "Purificador de agua" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Purificador de agua" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Programa de Capacitación Básica en Adicciones"
   },
   {
@@ -425,7 +425,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153916.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Capacitación", title: "Zona de lavado" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Zona de lavado" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Acciones para salvar una vida"
   },
   {
@@ -433,7 +433,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: 'https://storage.googleapis.com/centro-images/certificaciones/certi-one.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Capacitación", title: "Zona de lectura" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Zona de lectura" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "3era. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
@@ -441,7 +441,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: 'https://storage.googleapis.com/centro-images/certificaciones/certi-two.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Capacitación", title: "Pantalla de Video vigilancia" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Pantalla de Video vigilancia" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "4ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones"
   },
   {
@@ -449,7 +449,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: 'https://storage.googleapis.com/centro-images/constancias/20170117_153745.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "5ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones"
   },
   {
@@ -457,7 +457,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: 'https://storage.googleapis.com/centro-images/certificaciones/certi-four.jpg',
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Capacitación", title: "Capilla" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Capilla" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "6ta. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
@@ -465,7 +465,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153837.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 174,
-    tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Comedor" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "7ma. Reunión Estatal de Centros de Tratamiento y Rehabilitación de las Adicciones."
   },
   {
@@ -473,7 +473,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153610.jpg",
     thumbnailWidth: 320,
     thumbnailHeight: 212,
-    tags: [{ value: "Capacitación", title: "Dormitorio" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Dormitorio" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Curso Ética y confidencialidad"
   },
 
@@ -482,7 +482,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153722.jpg",
     thumbnailWidth: 300,
     thumbnailHeight: 212,
-    tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Curso de Capacitación y actualización de la Norma Oficial Mexicana NOM-028-SSA2-1999, para la Prevención, Tratamiento y Control de las Adicciones."
   },
   {
@@ -490,7 +490,7 @@ export const IMAGES_CERTIFICACIONES =
     thumbnail: "https://storage.googleapis.com/centro-images/constancias/20170117_153800.jpg",
     thumbnailWidth: 250,
     thumbnailHeight: 212,
-    tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UREPUNV", title: "UREPUNV" }],
+    tags: [{ value: "Capacitación", title: "Zona de deporte" }, { value: "UNIDAD TERAPÉUTICA", title: "UNIDAD TERAPÉUTICA" }],
     caption: "Curso 'Conceptos básicos en adicciones'"
   },
   {
