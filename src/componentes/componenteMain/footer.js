@@ -31,7 +31,7 @@ render(){
                 >
                 <p className="white-text divCont">Contáctanos</p>
                 <p ><a className="grey-text text-lighten-4" href="tel:6671609426">6671609426<Icon center left>call</Icon></a></p>
-                <p ><a className="grey-text text-lighten-4" target = "_blank" href="https://www.google.com.mx/maps/place/Centro+de+rehabilitaci%C3%B3n+Un+Rayo+de+Esperanza+Por+Una+Nueva+Vida-Urepunv/@24.6002953,-107.3873961,17z/data=!3m1!4b1!4m5!3m4!1s0x86a32c9d7c7ab265:0xaecdb56aa5a5c8be!8m2!3d24.6002953!4d-107.3852074">Ubícanos con Google Maps solo dando click aquí<Icon center left>room</Icon></a></p>
+                <p ><a className="grey-text text-lighten-4" target = "_blank" href="https://www.google.com.mx/maps/place/UNIDAD+TERAPEUTICA+COSTA+RICA/@24.6001058,-107.3871406,18.05z/data=!4m5!3m4!1s0x86a32dd9042f4acd:0x2bcd15ac51ce83cb!8m2!3d24.6003636!4d-107.3857937">Ubícanos con Google Maps solo dando click aquí<Icon center left>room</Icon></a></p>
                 <p ><a className="grey-text text-lighten-4" target = "_blank" href="mailto:gregorio-german@hotmail.com">gregorio-german@hotmail.com<Icon center left>mail</Icon></a></p>
             </Footer>
         </div>
