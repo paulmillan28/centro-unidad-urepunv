@@ -2,6 +2,8 @@
   color:#4d4d4d;
   font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
+  margin: 0 auto;
+  width: 75%;
 }
 footer.page-footer {
     background-color: #8BD04F;
@@ -375,6 +377,11 @@ body{
     max-height: 300px;
     margin-top: 2%;
   }
+
+  #app {
+    width: 100%;
+  }
+
 body{
   padding: 10px;
 }

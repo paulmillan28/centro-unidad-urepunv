@@ -2,7 +2,7 @@ export const datosCard = [
   {
     titulo: "¡Que delicia!",
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación. ",
-    imagen: 'https://storage.cloud.google.com/centro-images/comida/food-one.jpg',
+    imagen: 'https://storage.cloud.google.com/centro-images/comida/food-one-three.jpg',
     imagenes: [
       'https://storage.cloud.google.com/centro-images/comida/food-one.jpg',
       'https://storage.cloud.google.com/centro-images/comida/food-two.jpg',
