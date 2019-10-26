@@ -1,9 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import TituloCabecera from './componenteTonto';
 import {Footer,Icon} from 'react-materialize';
 
 class FooterM extends Component{

@@ -1,16 +1,10 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import TituloCabecera from './componenteTonto';
 import CarouselM from './carousel';
 import Section from './section';
 import {datosCard} from './constantes';
 import ParallaxM from './parallax';
 import FooterM from './footer';
 import {Collapsible,CollapsibleItem,Col, Row} from 'react-materialize';
-import CarouselCards from './carouselCards';
 
 class PaginaPrincipal extends Component{
   constructor(props){
@@ -29,6 +23,7 @@ render(){
         <Section datos = {datosCard}/>
       <ParallaxM/>
       <div>
+      <div class = "fb-post" data-href = "https://www.facebook.com/unidadterapeuticacostarica2019/posts/139383384123232" > </div>  
 
       </div>
       <Row>
