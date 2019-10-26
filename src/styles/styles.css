@@ -1,7 +1,13 @@
 #app {
   color:#4d4d4d;
   font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0 auto;
+  width: 75%;
 }
+.row-video{
+  margin: 0 auto;
+}
+
 footer.page-footer {
     background-color: #347ab6;
 }
@@ -127,9 +133,15 @@ img#logo {
 }
 .video iframe {
   margin: 0 auto;
+  width: 100%;
 }
 .collapsible.popout {
-    margin-top: 7%;
+    margin-top: 2%;
+}
+.div-seccion-video{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
 }
 
 .right-align {
@@ -229,9 +241,10 @@ i.material-icons.center.divMiddle {
   cursor: pointer;
   
 }
-.divVideo, .divVision{
+.divVideo, .divVision {
   text-align: justify;
   font-size: 1.5em;
+  margin-top: 2%;
 }
 .divCont{
   font-size: 1.5em;
@@ -293,6 +306,9 @@ i.medium {
     font-size: 1em;
     vertical-align: middle;
   }
+  #app {
+    width: 100%;
+  }
 body{
   padding: 10px;
 }
@@ -337,9 +353,11 @@ body{
     display: none;
   }
 
-  .divVideo, .divVision{
-    display: block;
-    width: 100%;
+
+  .divVideo{
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
   }
   .divFooter{
     font-size: 1.5em;
@@ -367,6 +385,9 @@ body{
     display: inline-block;
     margin-left: 3%;
   }    
+  #app {
+    width: 100%;
+  }
 }
 @media (max-width: 685px) {
   .parallax,.parallax-container{
@@ -374,6 +395,11 @@ body{
     max-height: 300px;
     margin-top: 2%;
   }
+
+  #app {
+    width: 100%;
+  }
+
 body{
   padding: 10px;
 }

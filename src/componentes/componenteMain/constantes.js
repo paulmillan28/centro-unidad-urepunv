@@ -2,7 +2,7 @@ export const datosCard = [
   {
     titulo: "¡Que delicia!",
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación. ",
-    imagen: 'https://storage.googleapis.com/centro-images/comida/food-one.jpg',
+    imagen: 'https://storage.googleapis.com/centro-images/comida/food-one-three.jpg',
     imagenes: [
       'https://storage.googleapis.com/centro-images/comida/food-one.jpg',
       'https://storage.googleapis.com/centro-images/comida/food-two.jpg',
@@ -69,28 +69,11 @@ export const datosCard = [
   {
     titulo: "¡ICATSIN nos apoya con cursos de soldadura!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
-    imagen: "http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/4/files/original/learn.png",
+    imagen: "https://pngimage.net/wp-content/uploads/2018/06/soldador-png-3.png",
     imagenes: [
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
       'https://storage.googleapis.com/centro-images/icatsin/sold-three.jpg'
-    ]
-  },
-  {
-    titulo: "¡Nuevo establecimiento a la vista!",
-    descripcion: "Este nuevo establecimiento que esta en construcción será dedicado al sexo femenino. En los últimos años se ha incrementado el número de mujeres en la adicción por lo que nuestra institución con una misión de ayudar a toda persona a la recuperación decidimos fundar una nueva clinica.",
-    imagen: 'https://storage.googleapis.com/centro-images/renovacion/new-two.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/renovacion/new-one.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-two.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-three.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-four.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-five.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-six.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-seven.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-eight.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-nine.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/new-ten.jpg'
     ]
   },
   {
