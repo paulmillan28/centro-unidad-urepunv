@@ -1,10 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import CarouselCards from './carouselCards';
-import {datosTratamiento} from './constantes';
 import {Row, Col,Parallax} from 'react-materialize';
 import CardModificado from './cardModificado';
 
@@ -41,7 +35,7 @@ render(){
           <CardModificado 
             titulo = "DOCTOR" 
             precio = "150" 
-            imagen = "http://www.masadmin.net/wp-content/themes/masadmin/imgs/icon13.png"
+            imagen = "https://storage.cloud.google.com/centro-images/doctor.png"
             descripcion = "Único pago de $150."/>
         </Col>
      </Row>
@@ -50,7 +44,7 @@ render(){
           <CardModificado 
             titulo = "PSICOLÓGO" 
             precio = "150" 
-            imagen = "http://riveroaks-wp.s3-us-west-2.amazonaws.com/wp-content/uploads/2016/05/04221818/Mental-Health-Flat-Line-Icon-C-85431392-650x616.png"
+            imagen = "https://storage.cloud.google.com/centro-images/psicologo.png"
             descripcion = "Único pago de $150."/>
         </Col>
         <Col s={12} l={6} m={12}>
@@ -66,7 +60,7 @@ render(){
           <CardModificado 
             titulo = "TRANSPORTE" 
             precio = "Depende de la lejanía del domicilio del usuario a ingresar." 
-            imagen = "http://freeflaticons.com/wp-content/uploads/2014/09/black-copy-14105284194nk8g.png"
+            imagen = "https://storage.googleapis.com/centro-images/transporte.png"
             descripcion = "Único pago"/>
         </Col>
      </Row>
