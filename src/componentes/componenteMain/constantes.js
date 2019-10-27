@@ -31,7 +31,7 @@ export const datosCard = [
   {
     titulo: "¡Primeros auxilios!",
     descripcion: "Protección civil nos apoya con cursos de Primeros auxilios con el fín de capacitar a nuestros ingresados.",
-    imagen: 'https://lh3.googleusercontent.com/ZJ-_BTHhv701ekC7LK2lbo174tKsR9GgiskKQdO7daERQza5H6pOPvlopnIhwoFCLDJJ5rfqw8QHlgIeo2-bZ6EaP_TrCuxtLTeF2uE-kyACJQPa5ZMyzYRygVPmeg2Un1gMwM4yU9f5lTFlGRX8dFsLAW_KwNIe5c9P19iAQrOQo_uZ3pFr1Ja1NE5O509zGVucWG3nZvoBWodIUF08Gs6TvP7YyINRl4IfciI6ougvazgqFpYe76KPlo14K0iSirRBufBaRl1Mi2mnbjAprkY3GAyWjnPAC-6yoLK2TrMbxiP3R4GVag2iOHbt6ODgiM41uAqZ7TwZ2d8GrFfAa0rDw1VRYE84Ld-kEStnOJiDHOanOnmnaSukQUhna2GQ3K0g_b1-xJvnjXXmtahPh0V7JRfZBR-gH2ynXDHUYQP4yqjP_9nZVg4m5RYRHL7lXWi8odVuGFvT7EDZc7n-jNZrFh4zpfh5O1OFVbRtFL7DXuwKbN6pTYkUzuB_nEJCKjIP3vLPbWMMxhn7DhPo03PFEtqe380YhjZ0JifMtzRG1sj_yxivdAolkr0XfdqV7jeLigLw4BxyXjv_nl6g9aksvv3oF82QjwPukcoVIcorhACG162gQbtYgRAkGPOwEU7q9b9L_WS4cNWui-axzcunecbWreOjeh4ZeuCbkOocSv_gX62c9w=w960-h594-no',
+    imagen: 'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-two.jpg',
     imagenes: [
       'https://lh3.googleusercontent.com/ZJ-_BTHhv701ekC7LK2lbo174tKsR9GgiskKQdO7daERQza5H6pOPvlopnIhwoFCLDJJ5rfqw8QHlgIeo2-bZ6EaP_TrCuxtLTeF2uE-kyACJQPa5ZMyzYRygVPmeg2Un1gMwM4yU9f5lTFlGRX8dFsLAW_KwNIe5c9P19iAQrOQo_uZ3pFr1Ja1NE5O509zGVucWG3nZvoBWodIUF08Gs6TvP7YyINRl4IfciI6ougvazgqFpYe76KPlo14K0iSirRBufBaRl1Mi2mnbjAprkY3GAyWjnPAC-6yoLK2TrMbxiP3R4GVag2iOHbt6ODgiM41uAqZ7TwZ2d8GrFfAa0rDw1VRYE84Ld-kEStnOJiDHOanOnmnaSukQUhna2GQ3K0g_b1-xJvnjXXmtahPh0V7JRfZBR-gH2ynXDHUYQP4yqjP_9nZVg4m5RYRHL7lXWi8odVuGFvT7EDZc7n-jNZrFh4zpfh5O1OFVbRtFL7DXuwKbN6pTYkUzuB_nEJCKjIP3vLPbWMMxhn7DhPo03PFEtqe380YhjZ0JifMtzRG1sj_yxivdAolkr0XfdqV7jeLigLw4BxyXjv_nl6g9aksvv3oF82QjwPukcoVIcorhACG162gQbtYgRAkGPOwEU7q9b9L_WS4cNWui-axzcunecbWreOjeh4ZeuCbkOocSv_gX62c9w=w960-h594-no',
       'https://storage.cloud.google.com/centro-images/primeros-auxilios/aux-two.jpg',
@@ -69,28 +69,11 @@ export const datosCard = [
   {
     titulo: "¡ICATSIN nos apoya con cursos de soldadura!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
-    imagen: "http://la2050.s3-us-west-1.amazonaws.com/comfy/cms/files/4/files/original/learn.png",
+    imagen: "https://pngimage.net/wp-content/uploads/2018/06/soldador-png-3.png",
     imagenes: [
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
       'https://storage.googleapis.com/centro-images/icatsin/sold-three.jpg'
-    ]
-  },
-  {
-    titulo: "¡Nuevo establecimiento a la vista!",
-    descripcion: "Este nuevo establecimiento que esta en construcción será dedicado al sexo femenino. En los últimos años se ha incrementado el número de mujeres en la adicción por lo que nuestra institución con una misión de ayudar a toda persona a la recuperación decidimos fundar una nueva clinica.",
-    imagen: 'https://storage.googleapis.com/centro-images/renovacion/new-two.jpg',
-    imagenes: [
-      'https://storage.cloud.google.com/centro-images/renovacion/new-one.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-two.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-three.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-four.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-five.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-six.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-seven.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-eight.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-nine.jpg',
-      'https://storage.cloud.google.com/centro-images/renovacion/new-ten.jpg'
     ]
   },
   {
@@ -102,22 +85,6 @@ export const datosCard = [
       'https://storage.googleapis.com/centro-images/novedades/evento/ev-two.jpg',
       'https://storage.googleapis.com/centro-images/novedades/evento/ev-three.jpg',
       'https://storage.googleapis.com/centro-images/novedades/evento/ev-four.jpg'
-    ]
-  },
-  {
-    titulo: "¡Renovación total!",
-    descripcion: "Los usuarios del establecimiento disfrutaran de nuevas instalaciones, como lo son estufas de acero inoxidable con campana industrial, sillas, mesas, minisplit, etc.",
-    imagen: 'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-one.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-two.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-three.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-seven.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-eight.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-four.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-nine.jpg',
-      'https://storage.googleapis.com/centro-images/renovacion/reno-ten.jpg'
     ]
   },
   {
