@@ -69,7 +69,7 @@ export const datosCard = [
   {
     titulo: "¡ICATSIN nos apoya con cursos de soldadura!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
-    imagen: "https://pngimage.net/wp-content/uploads/2018/06/soldador-png-3.png",
+    imagen: "https://storage.googleapis.com/centro-images/soldador.png",
     imagenes: [
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
