@@ -1,10 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import CarouselCards from './carouselCards';
-import {datosTratamiento} from './constantes';
 import {Row, Col,Parallax} from 'react-materialize';
 import CardModificado from './cardModificado';
 
