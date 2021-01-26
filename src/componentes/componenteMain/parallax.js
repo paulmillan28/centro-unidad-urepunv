@@ -1,9 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import TituloCabecera from './componenteTonto';
 import {Parallax} from 'react-materialize';
 
 class ParallaxM extends Component{
@@ -24,7 +19,7 @@ render(){
           </div>
          <Parallax 
          className = "paralax"
-         imageSrc="https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg"/>
+         imageSrc="https://scontent.fcul2-1.fna.fbcdn.net/v/t1.0-9/71707314_118611979533706_455282901496365056_o.jpg?_nc_cat=107&ccb=2&_nc_sid=e3f864&_nc_eui2=AeERNuUXalmwVfe1TZ8fbOxqPLTqRsCsCjM8tOpGwKwKMwqllORaCQ6ECEx54NZUvMlYdSaj8KlVMR0G3wIgUPYI&_nc_ohc=zZNTpMFr_7YAX9j6GDL&_nc_ht=scontent.fcul2-1.fna&oh=88c567dd52d1138e3fe7d28ead1c8ece&oe=60343BB3"/>
        </div>
       );
   }

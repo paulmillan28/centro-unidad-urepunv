@@ -26,25 +26,7 @@ render(){
       <CarouselM datos = {datosCard}/>
         <Section datos = {datosCard}/>
       <ParallaxM/>
-        <div className="divVideo z-depth-4">
-            <Col s={12} m={12} l={10}>
-            <div className="div-seccion-video">
-
-                        <div >
-                          <h2 className="header">Video Institucional</h2>
-                          <p className="grey-text text-darken-3 lighten-3">Te invitamos a ver nuestro video institucional, reflejando parte de lo que representamos en nuestra institución.</p>
-                        </div>
-                      <iframe
-                          width="80%"
-                          height="315"
-                          align="center"
-                          src="https://www.youtube.com/embed/wV1RO_JiV0k"
-                          frameBorder="0"
-                          allowFullScreen>
-                      </iframe>
-                      </div >
-
-            </Col>   
+        <div className="divVideo z-depth-4"> 
             </div>
                 <Col s={12} m={12} l={10}>
                 <div className = "divVision">

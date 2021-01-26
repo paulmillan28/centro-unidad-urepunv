@@ -1,10 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import TituloCabecera from './componenteTonto';
-import CarouselM from './carousel';
 import Gallery from 'react-grid-gallery';
 import {IMAGES} from './constantes';
 import {Row, Col,Parallax} from 'react-materialize';

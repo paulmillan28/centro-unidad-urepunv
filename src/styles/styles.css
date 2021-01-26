@@ -9,10 +9,10 @@
 }
 
 footer.page-footer {
-    background-color: #347ab6;
+    background-color: #00c942;
 }
 .nav{
-  background: #337ab7;
+  background: #00c942;
 }
 img#logo {
     width: 17%;
@@ -37,7 +37,7 @@ img#logo {
 }
 .tabsInfo{
   color: black;
-  background: blue;
+  background: 00c942;
 }
 .mapa{
   width: 100%;
@@ -55,7 +55,7 @@ img#logo {
   margin-top: 3%;
 }
 .btnCarousel{
-  background: #337ab7;
+  background: #00c942;
 }
 .tabInfo p{
   font-weight: bold;
@@ -152,7 +152,7 @@ img#logo {
 }
 
 #btnCards{
-  background: #337ab7;
+  background: #00c942;
   margin-left: 80%;
 }
 
@@ -193,7 +193,7 @@ img#logo {
 .divSpanInstalaciones{
   font-size: 3em;
   font-weight: bold;
-  color: #347ab6;
+  color: #00c942;
   background: white;
   text-align: center;
   padding-bottom: 2%;
@@ -216,7 +216,7 @@ img#logo {
 .divSpanInstalaciones2{
   font-size: 1em;
   font-weight: bold;
-  color: #347ab6;
+  color: #00c942;
   background: white;
   text-align: center;
 }
@@ -258,7 +258,7 @@ a.btn.right.btnFacebook {
 
 a.btn.btnFacebook:hover {
   background: white;
-  color: #3579b6;
+  color: #00c942;
   font-weight: bold;
   font-size: 1.5em;
 }

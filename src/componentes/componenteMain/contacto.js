@@ -1,12 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import {Link, hashHistory}        from 'react-router';
-import { connect } from 'react-redux';
-import {bindActionCreators} from 'redux';
-import TituloCabecera from './componenteTonto';
-import {Tab,Tabs} from 'material-ui/Tabs';
-import {Icon,MediaBox,Row,Col} from 'react-materialize';
-import FontIcon from 'material-ui/FontIcon';
 import Divider from 'material-ui/Divider';
 
       const styles = {
