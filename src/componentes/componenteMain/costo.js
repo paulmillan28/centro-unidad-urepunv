@@ -12,7 +12,7 @@ render(){
   return(
     <div>
     <Parallax 
-         imageSrc="https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg"/>
+         imageSrc= 'https://storage.googleapis.com/centro-images/utcr2/fachada/1.jpg'/>
       <Row/>
       <Row>
         <Col s={12}>
