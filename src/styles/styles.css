@@ -9,10 +9,10 @@
 }
 
 footer.page-footer {
-    background-color: #00c942;
+    background-color: #294f36;
 }
 .nav{
-  background: #00c942;
+  background: #294f36;
 }
 img#logo {
     width: 17%;
@@ -55,7 +55,7 @@ img#logo {
   margin-top: 3%;
 }
 .btnCarousel{
-  background: #00c942;
+  background: #294f36;
 }
 .tabInfo p{
   font-weight: bold;
@@ -152,7 +152,7 @@ img#logo {
 }
 
 #btnCards{
-  background: #00c942;
+  background: #294f36;
   margin-left: 80%;
 }
 
@@ -216,7 +216,7 @@ img#logo {
 .divSpanInstalaciones2{
   font-size: 1em;
   font-weight: bold;
-  color: #00c942;
+  color: #294f36;
   background: white;
   text-align: center;
 }

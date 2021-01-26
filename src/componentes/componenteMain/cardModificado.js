@@ -17,16 +17,16 @@ class CardModificado extends Component{
 render(){
   return(
    <div>
-        <h2 className="header">{this.props.titulo}</h2>
-        <div className="card horizontal">
-          <div className="card-image">
+        <h2 className='header'>{this.props.titulo}</h2>
+        <div className='card horizontal'>
+          <div className='card-image'>
             <img src={this.props.imagen}/>
           </div>
-          <div className="card-stacked">
-            <div className="card-content">
+          <div className='card-stacked'>
+            <div className='card-content'>
               <p><b>Descripción: </b><br/><br/>{this.props.descripcion}</p>
             </div>
-            <div className="card-action">
+            <div className='card-action'>
               <p><b>Costo :</b> {this.props.precio}</p>
             </div>
           </div>

@@ -24,29 +24,29 @@ render(){
   return(
     <div>
       {this.props.datos.map((row, index) => (
-        <div key = {index} className = "cardDatos hoverable">
+        <div key = {index} className = 'cardDatos hoverable'>
             <Card >
                 <CardMedia
                   style={{height:'300px', cursor: 'pointer'}}
                   onClick={() => this.setState({ isOpen: true, images : row.imagenes })}                                    
-                  overlay={<CardTitle style = {{textAlign : "center"}} title={<div className = "cardText">{row.titulo}</div>}/>}
+                  overlay={<CardTitle style = {{textAlign : 'center'}} title={<div className = 'cardText'>{row.titulo}</div>}/>}
                 >
                 <MediaBox 
                    style={{height:'300px'}}                
                   src={row.imagen} caption={row.titulo}/>
                 </CardMedia>
                 
-                <CardActions style = {{textAlign : "center"}}>
+                <CardActions style = {{textAlign : 'center'}}>
                
-                  <Collapsible className="divCollapse">
+                  <Collapsible className='divCollapse'>
                     <CollapsibleItem header='Ver más' icon='keyboard_arrow_down'>
-                    <CardText style = {{textAlign : "justify"}}>
-                     <div className = "cardText">{row.descripcion}</div>
+                    <CardText style = {{textAlign : 'justify'}}>
+                     <div className = 'cardText'>{row.descripcion}</div>
                    </CardText>
                     </CollapsibleItem>
                   </Collapsible>
-                  <div className = "divButtonVer">
-                  <FlatButton style = {(row.imagenes.length === 0 || row.imagenes.length === 1) ? {display : 'none', color : '#347ab6', border : 'solid 1px', verticalAlign : 'middle', width : '100%'} : {display : '', color : '#347ab6', border : 'solid 1px',verticalAlign : 'middle', width: '100%'}} label="Ver más fotografías" onClick={() => this.setState({ isOpen: true, images : row.imagenes })} />
+                  <div className = 'divButtonVer'>
+                  <FlatButton style = {(row.imagenes.length === 0 || row.imagenes.length === 1) ? {display : 'none', color : '#347ab6', border : 'solid 1px', verticalAlign : 'middle', width : '100%'} : {display : '', color : '#347ab6', border : 'solid 1px',verticalAlign : 'middle', width: '100%'}} label='Ver más fotografías' onClick={() => this.setState({ isOpen: true, images : row.imagenes })} />
                 </div>
                 </CardActions>
           </Card>

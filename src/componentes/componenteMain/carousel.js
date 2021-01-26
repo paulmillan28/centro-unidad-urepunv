@@ -29,10 +29,10 @@ class CarouselM extends Component {
 
   render() {
     return (
-      <div className="mainCarousel">
-        <div className="carousel carousel-slider" data-indicators="true">
+      <div className='mainCarousel'>
+        <div className='carousel carousel-slider' data-indicators='true'>
           {this.props.datos.map((row, index) => (
-            <a key={index} className="carousel-item" href=""><img src={row.imagen} /></a>
+            <a key={index} className='carousel-item' href=''><img src={row.imagen} /></a>
           ))}
         </div>
       </div>

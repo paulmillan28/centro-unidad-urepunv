@@ -83,7 +83,7 @@ class NavBar extends Component {
       <div>
         <div>
           <AppBar
-            style={{ textAlign: "center", background: '#00c942' }}
+            style={{ textAlign: "center", background: '#294f36' }}
             className="divApp"
             title={<div className="divTitulo">UNIDAD TERAPÉUTICA COSTA RICA</div>}
             iconElementLeft={<Icon className="divIcon" medium>dehaze</Icon>}
@@ -93,7 +93,7 @@ class NavBar extends Component {
 
           <Drawer width={300} containerClassName="divDrawer" open={this.state.open}>
             <AppBar
-              style={{ textAlign: "center", background: '#00c942' }}
+              style={{ textAlign: "center", background: '#294f36' }}
               title={<div className="divTitulo">UNIDAD</div>}
               className="divApp"
               onClick={this.menu}
