@@ -1,8 +1,18 @@
 import React, { Component } from 'react';
-import { hashHistory } from 'react-router';
-import {Button, Icon } from 'react-materialize';
+import PropTypes from 'prop-types';
+import { Link, hashHistory } from 'react-router';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
+import TituloCabecera from './componenteTonto';
+import { Navbar, NavItem, Button, Icon } from 'react-materialize';
 import AppBar from 'material-ui/AppBar';
+import IconButton from 'material-ui/IconButton';
+import IconMenu from 'material-ui/IconMenu';
 import MenuItem from 'material-ui/MenuItem';
+import FlatButton from 'material-ui/FlatButton';
+import Toggle from 'material-ui/Toggle';
+import MoreVertIcon from 'material-ui/svg-icons/navigation/more-vert';
+import NavigationMenu from 'material-ui/svg-icons/navigation/menu';
 import Drawer from 'material-ui/Drawer';
 
 class NavBar extends Component {
@@ -84,7 +94,7 @@ class NavBar extends Component {
           <Drawer width={300} containerClassName="divDrawer" open={this.state.open}>
             <AppBar
               style={{ textAlign: "center", background: '#00c942' }}
-              title={<div className="divTitulo">UREPUNV</div>}
+              title={<div className="divTitulo">UNIDAD</div>}
               className="divApp"
               onClick={this.menu}
             />
