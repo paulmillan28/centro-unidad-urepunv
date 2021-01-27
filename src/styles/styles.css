@@ -42,9 +42,23 @@ img#logo {
 .mapa{
   width: 100%;
 }
+iframe {
+  width: 100%;
+}
 .tabstop{
   margin-top: 6%;
   background: white;
+}
+.divFB {
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 2%;
+  max-height: 429px;
+  overflow-y: scroll;
+  max-width: 560px;
+  overflow-x: scroll;
+  width: 560px;
+  height: 429px;
 }
 .center{
   margin: 0 auto;
@@ -53,6 +67,9 @@ img#logo {
 }
 .facebookDiv{
   margin-top: 3%;
+}
+.fb-rigth{
+  float: right;
 }
 .btnCarousel{
   background: #294f36;

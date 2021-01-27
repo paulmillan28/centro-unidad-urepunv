@@ -272,8 +272,8 @@ export const IMAGES =
 
 export const IMAGES_CERTIFICACIONES =
   [{
-    src: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpg',
-    thumbnail: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpg',
+    src: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpeg',
+    thumbnail: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpeg',
     thumbnailWidth: 500,
     thumbnailHeight: 600,
     tags: [{ value: 'CERTIFICACION NACIONAL', title: 'CERTIFICACION NACIONAL' }, { value: 'NIVEL NACIONAL', title: 'NIVEL NACIONAL' }],

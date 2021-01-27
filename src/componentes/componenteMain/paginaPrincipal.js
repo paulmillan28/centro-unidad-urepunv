@@ -24,7 +24,22 @@ class PaginaPrincipal extends Component {
     return (
       <div>
         <CarouselM datos={datosCard} />
+
+        <Col s={12} m={6} l={6} className='divFB'>
+          <iframe src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Funidadterapeuticacostarica2019%2Fvideos%2F221278433003667%2F&show_text=true&width=560" width="560" height="423" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" ></iframe>
+        </Col>
+        <Col s={12} m={6} l={6} className='divFB'>
+          <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Funidadterapeuticacostarica2019%2Fvideos%2F785750242218971%2F&show_text=true&width=560" width="560" height="429" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" ></iframe>
+        </Col>
+        <Col s={12} m={6} l={6} className='divFB'>
+          <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Funidadterapeuticacostarica2019%2Fposts%2F414680339926867&width=500&show_text=true&appId=1586356848142063&height=664" width="500" height="664" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        </Col>
+        <Col s={12} m={6} l={6} className='divFB'>
+          <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Funidadterapeuticacostarica2019%2Fvideos%2F426286685029124%2F&width=500&show_text=true&appId=1586356848142063&height=390" width="500" height="390" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+        </Col>
+
         <Section datos={datosCard} />
+
         <ParallaxM />
         <div className='divVideo z-depth-4'>
         </div>
