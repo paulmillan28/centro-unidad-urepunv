@@ -22,7 +22,7 @@ class PaginaPrincipal extends Component {
     const datos = { datosCard };
 
     return (
-      <div>
+      <div className="main-fb">
         <CarouselM datos={datosCard} />
 
         <Col s={12} m={6} l={6} className='divFB'>

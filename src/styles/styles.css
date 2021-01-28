@@ -49,6 +49,12 @@ iframe {
   margin-top: 6%;
   background: white;
 }
+.main-fb{
+  display: inline-block;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
 .divFB {
   display: inline-block;
   margin-top: 2%;
