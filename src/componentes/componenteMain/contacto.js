@@ -35,9 +35,9 @@ render(){
                <h2 style={styles.headline}><b>INFORMACIÓN GENERAL</b></h2>
                  <b className = 'informG'>Información de contacto:</b>
                  <p><b>Número particular:</b></p>
-                  <p ><a href='tel:6671361658'><Icon className = 'divMiddle' center>call</Icon>6671361658</a></p>
+                  <p ><a href='tel:6675765299'><Icon className = 'divMiddle' center>call</Icon>6675765299</a></p>
                   <p><b>Número de celular:</b></p>
-                  <p ><a href='tel:6671609426'><Icon className = 'divMiddle' center>call</Icon>6671609426</a></p>
+                  <p ><a href='tel:6672036816'><Icon className = 'divMiddle' center>call</Icon>6672036816</a></p>
                   <p><b>Dirección:</b></p>
                   <p ><a target = '_blank' href='https://www.google.com.mx/maps/place/UNIDAD+TERAPEUTICA+COSTA+RICA/@24.6003636,-107.3879877,17z/data=!3m1!4b1!4m5!3m4!1s0x86a32dd9042f4acd:0x2bcd15ac51ce83cb!8m2!3d24.6003636!4d-107.3857937'><Icon className = 'divMiddle' center>room</Icon>Sebastián lerdo de tejada No. 691 COl. Insurgentes, Costa Rica, Culiacán, Sinaloa.</a></p>
                   <Divider/>
