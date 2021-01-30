@@ -418,7 +418,13 @@ body{
     max-height: 300px;
     margin-top: 2%;
   }
-
+  .divFB {
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 100%;
+    height: auto;
+  }
   #app {
     width: 100%;
   }
