@@ -1,0 +1,2 @@
+#comando para ejecutar en windows
+npm install -g win-node-env
