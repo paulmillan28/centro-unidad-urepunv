@@ -9,8 +9,8 @@ export const datosCard = [
     ]
   },
   {
-    titulo: '¡Misa navideña!',
-    descripcion: 'Misa en Unidad terapéutica Costa Rica...Hoy nace nuestro niñito Dios....',
+    titulo: '¡Misa!',
+    descripcion: 'Misa en Unidad terapéutica Costa Rica impartida por el parroco de la comunidad',
     imagen: 'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
     imagenes: [
       'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
@@ -25,30 +25,6 @@ export const datosCard = [
       'https://storage.googleapis.com/centro-images/utcr2/posada/2.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/posada/1.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/posada/3.jpg'
-    ]
-  },
-  {
-    titulo: '¡Preparando la comida para la posada!',
-    descripcion: 'Elaboración de tamales para la cena de nuestra posada...Hoy nuestros usuarios valoran el proceso de los alimentos que llegan a su mesa y agradecen el haberse involucrado en los preparativos..',
-    imagen: 'https://storage.googleapis.com/centro-images/utcr2/tamales/1.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/utcr2/tamales/2.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/tamales/1.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/tamales/3.jpg'
-    ]
-  },
-  {
-    titulo: '¡Elaboración de piñatas!',
-    descripcion: 'Elaboración de piñatas para nuestra posada... Manualidad que año tras año se hace como manejo de tiempo libre... Si tienes problemas de adicción contáctanos nosotros te ayudamos..',
-    imagen: 'https://storage.googleapis.com/centro-images/utcr2/piniata/5.jpg',
-
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/utcr2/piniata/5.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/piniata/1.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/piniata/3.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/piniata/4.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/piniata/2.jpg'
-
     ]
   },
   {
