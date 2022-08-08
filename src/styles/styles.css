@@ -14,6 +14,23 @@ footer.page-footer {
 .nav{
   background: #337ab7;
 }
+.main-fb{
+  display: inline-block;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.divFB {
+  display: inline-block;
+  margin-top: 2%;
+  margin-left: 2%;
+  max-height: 429px;
+  overflow-y: scroll;
+  max-width: 560px;
+  overflow-x: scroll;
+  width: 560px;
+  height: 429px;
+}
 img#logo {
     width: 17%;
     vertical-align: middle;
@@ -373,7 +390,16 @@ body{
     margin-top: 0%;
     width: 100%;
   }
-
+  frame{
+    height: 200px;
+  }
+  .divFB {
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 100%;
+    height: 200px;
+  }
 }
 @media (max-width: 875px) {
   .instalacionesParallax{
@@ -385,6 +411,16 @@ body{
     display: inline-block;
     margin-left: 3%;
   }    
+  .divFB {
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 100%;
+    height: 200px;
+  }
+  frame{
+    height: 200px;
+  }  
   #app {
     width: 100%;
   }
@@ -395,7 +431,16 @@ body{
     max-height: 300px;
     margin-top: 2%;
   }
-
+  .divFB {
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 100%;
+    height: 200px;
+  }
+  frame{
+    height: 200px;
+  }
   #app {
     width: 100%;
   }

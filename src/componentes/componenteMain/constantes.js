@@ -45,28 +45,6 @@ export const datosCard = [
     ]
   },
   {
-    titulo: "¡Un año más ayudando a la comunidad!",
-    descripcion: "Duodécimo aniversario de esta agrupación ayudando a adultos y jovenes del sexo masculino a dejar la prisión que causan las drogas. La celebración se llevo a cabo en conjunto con los internos divirtiendose con una variedad de juegos y una rica cena.",
-    imagen: 'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
-      'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-two.jpeg',
-      'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-three.jpeg',
-      'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-four.jpeg'
-    ]
-  },
-  {
-    titulo: "¡Ya un año sin drogas!",
-    descripcion: "Esta persona es un ejemplo a seguir. Después de haber pasado una larga travesía por el camino de las drogas pudo superarlas y así poder recuperar todo lo valioso en su vida como lo es su familia, amigos de verdad y su bienestar.",
-    imagen: 'https://storage.googleapis.com/centro-images/novedades/ani-senior/ani-one.jpeg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/novedades/ani-senior/ani-one.jpeg',
-      'https://storage.googleapis.com/centro-images/novedades/ani-senior/ani-two.jpeg',
-      'https://storage.googleapis.com/centro-images/novedades/ani-senior/ani-three.jpeg',
-      'https://storage.googleapis.com/centro-images/novedades/ani-senior/ani-four.jpeg'
-    ]
-  },
-  {
     titulo: "¡ICATSIN nos apoya con cursos de soldadura!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
     imagen: "https://storage.googleapis.com/centro-images/soldador.png",
