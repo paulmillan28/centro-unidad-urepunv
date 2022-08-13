@@ -1,5 +1,49 @@
 export const datosCard = [
   {
+    titulo: "Sesiones familiares sobre tema de AUTOEFICACIA",
+    descripcion: "Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
+    imagen: "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/terapia2.jpeg"
+
+    ]
+  },
+  {
+    titulo: "¡Curso de repostería!",
+    descripcion: "Elaboración de roles de canela en nuestro curso de repostería dirigido por la maestra Hellely Arón de Icatsin. Poco a poco los usuarios se han ido soltando y tienen más confianza en ellos mismo.    ",
+    imagen: "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos3.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos4.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos5.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos6.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos7.jpeg"
+    ]
+  },
+  {
+    titulo: "¡Curso de electricidad!",
+    descripcion: "Usuarios en su curso de Electricidad. Impartido por el maestro Marco Polo Felix Murillo de Icatsin.",
+    imagen: "https://storage.googleapis.com/centro-images/unidad_cr/curso1.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/unidad_cr/curso1.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/curso2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/curso3.jpeg"    ]
+  },
+  {
+    titulo: "Día Internacional de la Lucha contra el uso indebido y el Tráfico ilícito de Drogas. ",
+    descripcion: "Hoy recibimos en UNIDAD TERAPÉUTICA COSTA RICA a la Comisión Nacional de Prevención y Tratamiento contra las adicciones.   Para celebrar y hacer conciencia en el Día Internacional de la Lucha contra el uso indebido y el Tráfico ilícito de Drogas.  Todas estas acciones son para crear conciencia sobre los impactos de la situación mundial de las Drogas y sus consecuencias en la salud.",
+    imagen: "https://storage.googleapis.com/centro-images/unidad_cr/comision1.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/unidad_cr/comision1.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/comision2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/comision3.jpeg"
+
+    ]
+  },
+  {
     titulo: '¡Estámos vacunados!',
     descripcion: 'Gracias al personal del imss por venir a vacunar contra la influenza a nuestros usuarios. ',
     imagen: 'https://storage.googleapis.com/centro-images/utcr2/vacuna/1.jpg',
@@ -9,22 +53,12 @@ export const datosCard = [
     ]
   },
   {
-    titulo: '¡Misa!',
+    titulo: '¡Celebración de la palabra de dios!',
     descripcion: 'Misa en Unidad terapéutica Costa Rica impartida por el parroco de la comunidad',
     imagen: 'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
     imagenes: [
       'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/misa/1.jpg'
-    ]
-  },
-  {
-    titulo: '¡Posada navideña!',
-    descripcion: 'Unidad terapéutica Costa Rica está de fiesta para festejar el nacimiento de nuestro salvador Jesucristo.',
-    imagen: 'https://storage.googleapis.com/centro-images/utcr2/posada/2.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/utcr2/posada/2.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/posada/1.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/posada/3.jpg'
     ]
   },
   {
@@ -386,4 +420,4 @@ export const IMAGES_CERTIFICACIONES =
   }
   ];
 
-  export const COLOR_PRINCIPAL='#294f36';
+export const COLOR_PRINCIPAL = '#294f36';
