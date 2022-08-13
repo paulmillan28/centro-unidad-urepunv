@@ -23,7 +23,7 @@ class CarouselM extends Component {
         fullWidth: true       
        } 
       );
-      window.setInterval(function () { $('.carousel.carousel-slider').carousel('next'); }, 3000);
+      window.setInterval(function () { $('.carousel.carousel-slider').carousel('next'); }, 6000);
     });
   }
 

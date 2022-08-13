@@ -1,5 +1,41 @@
 export const datosCard = [
   {
+    titulo: "Sesiones familiares sobre tema de AUTOEFICACIA",
+    descripcion:"Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
+    imagen:"https://storage.googleapis.com/centro-images/urepunv/sesion1.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/urepunv/sesion1.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/sesion2.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/sesion3.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/sesion4.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/sesion5.jpeg"
+
+    ]
+  },
+  {
+    titulo: "Cumpliendo nuestro aniversario número 14",
+    descripcion:"Muchas gracias a toda la comunidad que nos acompañó en este reconfortante evento. Se entregaron certificados como terminación de cursos de mecánica y refrigeración.",
+    imagen:"https://storage.googleapis.com/centro-images/urepunv/entrega4.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/urepunv/aniversario1.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/aniversario2.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/entrega1.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/entrega2.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/entrega3.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/entrega4.jpeg",
+
+    ]
+  },
+  {
+    titulo: "Celebración de la palabra de dios",
+    descripcion:"Hoy el párroco de Costa Rica Carlos López ofició misa en un Rayo de Esperanza por una nueva vida.",
+    imagen:"https://storage.googleapis.com/centro-images/urepunv/misa2.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/urepunv/misa1.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/misa2.jpeg"
+    ]
+  },
+  {
     titulo: "¡Que delicia!",
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación. ",
     imagen: 'https://storage.googleapis.com/centro-images/comida/food-one-three.jpg',
@@ -29,29 +65,18 @@ export const datosCard = [
     ]
   },
   {
-    titulo: "¡Primeros auxilios!",
-    descripcion: "Protección civil nos apoya con cursos de Primeros auxilios con el fín de capacitar a nuestros ingresados.",
-    imagen: 'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-one.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-one.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-two.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-three.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-four.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-five.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-six.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-seven.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-eight.jpg',
-      'https://storage.googleapis.com/centro-images/primeros-auxilios/aux-nine.jpg'
-    ]
-  },
-  {
-    titulo: "¡ICATSIN nos apoya con cursos de soldadura!",
+    titulo: "¡ICATSIN nos apoya con cursos de soldadura, electricidad y refrigeración!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
     imagen: "https://storage.googleapis.com/centro-images/soldador.png",
     imagenes: [
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
-      'https://storage.googleapis.com/centro-images/icatsin/sold-three.jpg'
+      'https://storage.googleapis.com/centro-images/icatsin/sold-three.jpg',
+      "https://storage.googleapis.com/centro-images/urepunv/entrega1.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/entrega2.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/entrega3.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/entrega4.jpeg",
+
     ]
   },
   {
@@ -66,7 +91,7 @@ export const datosCard = [
     ]
   },
   {
-    titulo: "¡Renovación total!",
+    titulo: "¡Conoce nuestras excelentes instalaciones!",
     descripcion: "Los usuarios del establecimiento disfrutaran de nuevas instalaciones, como lo son estufas de acero inoxidable con campana industrial, sillas, mesas, minisplit, etc.",
     imagen: 'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
     imagenes: [
@@ -87,16 +112,9 @@ export const datosCard = [
     imagen: 'https://storage.googleapis.com/centro-images/campania-vacunacion/va-one.jpg',
     imagenes: [
       'https://storage.googleapis.com/centro-images/campania-vacunacion/va-one.jpg',
-      'https://storage.googleapis.com/centro-images/campania-vacunacion/va-two.jpg'
-    ]
-  },
-  {
-    titulo: "¡Corte de cabello!",
-    descripcion: "ICATSIN nos apoya con cortes de cabello gratuito a nuestros internos",
-    imagen: 'https://storage.googleapis.com/centro-images/corte-cabello/cut-one.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/corte-cabello/cut-one.jpg',
-      'https://storage.googleapis.com/centro-images/corte-cabello/cut-two.jpg'
+      'https://storage.googleapis.com/centro-images/campania-vacunacion/va-two.jpg',
+      "https://storage.googleapis.com/centro-images/urepunv/imss1.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/imss2.jpeg"
     ]
   }
 ];

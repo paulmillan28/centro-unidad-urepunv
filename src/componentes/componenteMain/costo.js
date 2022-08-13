@@ -12,7 +12,7 @@ render(){
   return(
     <div>
     <Parallax 
-         imageSrc="https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg"/>
+         imageSrc="https://storage.googleapis.com/centro-images/urepunv/fachada.jpeg"/>
       <Row/>
       <Row>
         <Col s={12}>
@@ -35,7 +35,7 @@ render(){
           <CardModificado 
             titulo = "DOCTOR" 
             precio = "150" 
-            imagen = "https://storage.cloud.google.com/centro-images/doctor.png"
+            imagen = "https://png.pngtree.com/png-vector/20190130/ourlarge/pngtree-handsome-white-doctor-illustration-free-material-doctordoctor-materialdoctor-illustrationdoctor-png-image_633147.jpg"
             descripcion = "Único pago de $150."/>
         </Col>
      </Row>
@@ -44,7 +44,7 @@ render(){
           <CardModificado 
             titulo = "PSICOLÓGO" 
             precio = "150" 
-            imagen = "https://storage.cloud.google.com/centro-images/psicologo.png"
+            imagen = "https://i.pinimg.com/474x/82/e8/81/82e881c228624b1847eb25179f498ab4.jpg"
             descripcion = "Único pago de $150."/>
         </Col>
         <Col s={12} l={6} m={12}>

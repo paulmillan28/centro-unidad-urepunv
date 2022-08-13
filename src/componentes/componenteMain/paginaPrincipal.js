@@ -24,25 +24,7 @@ class PaginaPrincipal extends Component {
     return (
       <div>
         <CarouselM datos={datosCard} />
-        <div className="main-fb">
-
-          <Col s={12} m={6} l={6} className='divFB'>
-            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Furepunv%2Fposts%2Fpfbid02YbyY7TVYhFaBkgaBminR4P2anM22BPBS7WQ9FtdKaYhTuGMUisZMTVF4aFHFqajUl&show_text=true&width=500" width="500" height="696" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-          </Col>
-          <Col s={12} m={6} l={6} className='divFB'>
-            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Furepunv%2Fposts%2Fpfbid0285QT8jxMbRyqzwm74mCN9TnfVMjW3fjrajErRv2cgeuudG6fHUYLKmsxTYbBCUp2l&show_text=true&width=500" width="500" height="677" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>            </Col>
-          <Col s={12} m={6} l={6} className='divFB'>
-            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Furepunv%2Fposts%2Fpfbid02LNYfQvja1KGbRSMAK5AmpafjXJEew82PL2otbJbtcGA8wrkGgntTti2myKwTZbbwl&show_text=true&width=500" width="500" height="677" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>                </Col>
-
-          <Col s={12} m={6} l={6} className='divFB'>
-            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Furepunv%2Fposts%2Fpfbid0cJgcB8CdJQqLXESBGNJEA9pQ9cefNUnVUk6d5yySb8EMj5bSHGkcJsUPJL2wV8rjl&show_text=true&width=500" width="500" height="657" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>                </Col>
-          <Col s={12} m={6} l={6} className='divFB'>
-            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Furepunv%2Fposts%2Fpfbid02aq4Yb1bA2hMp3vWLK5iMpDbFJuuWQUGEL8BWiUyzZGUeXeM6TYEfpExgsBuLxiC5l&show_text=true&width=500" width="500" height="609" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>             </Col>
-          <Col s={12} m={6} l={6} className='divFB'>
-            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Furepunv%2Fposts%2Fpfbid02GcLxZzms8CbKCaKdTwfjVWSMmvuPEKvB1HD5WJu9GYaaaxSxELHXaDdAWtGadG13l&show_text=true&width=500" width="500" height="677" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>               </Col>
-
-
-        </div>
+       
         <Section datos={datosCard} />
         <ParallaxM />
 

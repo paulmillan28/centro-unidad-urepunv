@@ -23,7 +23,7 @@ render(){
     <div>
       <Parallax 
          className = "divMargin"              
-         imageSrc="https://storage.cloud.google.com/centro-images/novedades/aniversario/ani-one.jpg"/>
+         imageSrc="https://storage.googleapis.com/centro-images/urepunv/fachada.jpeg"/>
       <Row/>
       <Row>
         <Col s={12}>
