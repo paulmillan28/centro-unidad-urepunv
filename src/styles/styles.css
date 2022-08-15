@@ -414,6 +414,14 @@ body{
 
 }
 @media (max-width: 875px) {
+
+  .mainCarousel .carousel .carousel-item img {
+    margin: 0 auto;
+    text-align: center;
+    width: 95%;
+    height: 750px;
+    display: inherit;
+  }
   .instalacionesParallax{
     display: none;
   }
@@ -441,6 +449,15 @@ body{
   }
 }
 @media (max-width: 685px) {
+
+  .mainCarousel .carousel .carousel-item img {
+    margin: 0 auto;
+    text-align: center;
+    width: 95%;
+    height: 750px;
+    display: inherit;
+  }
+
   .parallax,.parallax-container{
     height: 300px;
     max-height: 300px;
