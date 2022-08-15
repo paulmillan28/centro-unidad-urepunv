@@ -50,7 +50,7 @@ render(){
         <Col s={12} l={6} m={12}>
           <CardModificado 
             titulo = "COMIDA" 
-            precio = "400" 
+            precio = "350" 
             imagen = "https://storage.googleapis.com/centro-images/inicio/comida.png"
             descripcion = "El pago es cada semana."/>
         </Col>
