@@ -1,10 +1,14 @@
 export const datosCard = [
   {
-    titulo: "Sesiones familiares sobre tema de AUTOEFICACIA",
+    titulo: "Sesiones de psicología y consejería en adicciones",
     descripcion:"Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
     imagen:"https://storage.googleapis.com/centro-images/urepunv/sesion1.jpeg",
     imagenes: [
       "https://storage.googleapis.com/centro-images/urepunv/sesion1.jpeg",
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/psicologia.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/platica2.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/platica3.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/platica.jpeg',
       "https://storage.googleapis.com/centro-images/urepunv/sesion2.jpeg",
       "https://storage.googleapis.com/centro-images/urepunv/sesion3.jpeg",
       "https://storage.googleapis.com/centro-images/urepunv/sesion4.jpeg",
@@ -70,6 +74,8 @@ export const datosCard = [
     imagen: "https://storage.googleapis.com/centro-images/soldador.png",
     imagenes: [
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica1.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica2.jpeg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
       'https://storage.googleapis.com/centro-images/icatsin/sold-three.jpg',
       "https://storage.googleapis.com/centro-images/urepunv/entrega1.jpeg",
@@ -137,6 +143,8 @@ export const datosTratamiento = [
     titulo: "IMPARTICIÓN DE CURSOS ICATSIN",
     descripcion: "Gracias a ICATSIN contamos con diversos cursos sobre electricidad, mecánica, plomería, entre otros. Los usuarios pueden aprender estas profesiones técnicas durante la estancia en la agrupación. ",
     imagenes: [
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica1.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica2.jpeg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
       'https://storage.googleapis.com/centro-images/icatsin/sold-three.jpg'
@@ -157,6 +165,10 @@ export const datosTratamiento = [
     descripcion: "Los usuarios cuentan con un psicólogo que los atendera con terapias individuales y también grupales, igualmente tambien tendrán terapias familiares.",
     imagenes: [
       'https://storage.googleapis.com/centro-images/psicologo/psico-one.jpg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/psicologia.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/platica2.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/platica3.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/platica.jpeg',
       'https://storage.googleapis.com/centro-images/psicologo/psico-two.jpg',
       'https://storage.googleapis.com/centro-images/psicologo/psico-three.jpg'
     ],
