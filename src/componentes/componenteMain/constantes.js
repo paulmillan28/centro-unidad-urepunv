@@ -1,11 +1,22 @@
 export const datosCard = [
   {
-    titulo: "Sesiones familiares sobre tema de AUTOEFICACIA",
+    titulo: "Sesiones terapéuticas",
     descripcion: "Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
     imagen: "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
     imagenes: [
       "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
-      "https://storage.googleapis.com/centro-images/unidad_cr/terapia2.jpeg"
+      "https://storage.googleapis.com/centro-images/unidad_cr/terapia2.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_comida/sesion9.jpeg"
+
+    ]
+  },
+  {
+    titulo: "Conoce nuestros alimentos",
+    descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación.",
+    imagen: "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_comida/comida2.jpeg"
 
     ]
   },
@@ -15,6 +26,9 @@ export const datosCard = [
     imagen: "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
     imagenes: [
       "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan2.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan3.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/rollos2.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/rollos3.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/rollos4.jpeg",
@@ -28,9 +42,12 @@ export const datosCard = [
     descripcion: "Usuarios en su curso de Electricidad. Impartido por el maestro Marco Polo Felix Murillo de Icatsin.",
     imagen: "https://storage.googleapis.com/centro-images/unidad_cr/curso1.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_comida/eletricidad.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_comida/electricidad2.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/curso1.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/curso2.jpeg",
-      "https://storage.googleapis.com/centro-images/unidad_cr/curso3.jpeg"    ]
+      "https://storage.googleapis.com/centro-images/unidad_cr/curso3.jpeg"   
+     ]
   },
   {
     titulo: "Día Internacional de la Lucha contra el uso indebido y el Tráfico ilícito de Drogas. ",
@@ -79,7 +96,17 @@ export const datosCard = [
 
     imagenes: [
       'https://storage.googleapis.com/centro-images/utcr2/manualidad/1.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/manualidad/2.jpg'
+      'https://storage.googleapis.com/centro-images/utcr2/manualidad/2.jpg',
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan2.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan3.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos3.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos4.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos5.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos6.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos7.jpeg"
     ]
   },
   {
@@ -112,7 +139,13 @@ export const datosTratamiento = [
     titulo: 'IMPARTICIÓN DE CURSOS ICATSIN',
     descripcion: 'Gracias a ICATSIN contamos con diversos cursos sobre electricidad, mecánica, plomería, entre otros. Los usuarios pueden aprender estas profesiones técnicas durante la estancia en la agrupación. ',
     imagenes: [
-      'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg'
+      'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
+      "https://storage.googleapis.com/centro-images/fotos_comida/eletricidad.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_comida/electricidad2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/curso1.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/curso2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/curso3.jpeg"
+
     ],
     imagen: 'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg'
   },
@@ -121,15 +154,29 @@ export const datosTratamiento = [
     descripcion: 'Es parte del tratamiento que se imparte en esta agrupación, nuestros grandes reconocimientos a nivel federal nos permite contar con áreas donde se pueden desempeñar practicando diversidades de servicios los cuales ayudan a mantener la mente ocupada.',
     imagenes: [
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/23.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/24.jpg'
+      'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/24.jpg',
+      'https://storage.googleapis.com/centro-images/utcr2/manualidad/2.jpg',
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan2.jpeg",
+      "https://storage.googleapis.com/centro-images/urepunv/pan3.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos3.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos4.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos5.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos6.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/rollos7.jpeg"
     ],
-    imagen: 'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/23.jpg'
+    imagen: "https://storage.googleapis.com/centro-images/urepunv/pan.jpeg"
   },
   {
     titulo: 'TERAPIA PSICOLÓGICA',
     descripcion: 'Los usuarios cuentan con un psicólogo que los atendera con terapias individuales y también grupales, igualmente tambien tendrán terapias familiares.',
     imagenes: [
-      'https://storage.googleapis.com/centro-images/psicologo/psico-one.jpg'
+      'https://storage.googleapis.com/centro-images/psicologo/psico-one.jpg',
+      "https://storage.googleapis.com/centro-images/fotos_comida/sesion9.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/terapia2.jpeg"
     ],
     imagen: 'https://storage.googleapis.com/centro-images/psicologo/psico-one.jpg'
   },
@@ -155,7 +202,9 @@ export const datosTratamiento = [
     titulo: 'TERAPIA ESPIRITUAL',
     descripcion: 'Contamos con diverasas personas que dan ayuda espiritual a los usuarios, donde pueden relajarse y disfrutar de la espiritualidad. ',
     imagenes: [
-      'https://storage.googleapis.com/centro-images/religion.jpg'
+      'https://storage.googleapis.com/centro-images/religion.jpg',
+      'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
+      'https://storage.googleapis.com/centro-images/utcr2/misa/1.jpg'
     ],
     imagen: 'https://storage.googleapis.com/centro-images/religion.jpg'
   },
@@ -167,7 +216,7 @@ export const datosTratamiento = [
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/23.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/24.jpg'
     ],
-    imagen: 'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/23.jpg'
+    imagen: 'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/24.jpg'
   }
 ];
 
@@ -281,7 +330,32 @@ export const IMAGES =
 
 
 export const IMAGES_CERTIFICACIONES =
-  [{
+  [
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
+      thumbnailWidth: 500,
+      thumbnailHeight: 600,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia2.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia2.jpeg',
+      thumbnailWidth: 500,
+      thumbnailHeight: 600,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
+    {
+      src: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpeg',
+      thumbnailWidth: 500,
+      thumbnailHeight: 600,
+      tags: [{ value: 'CERTIFICACION NACIONAL', title: 'CERTIFICACION NACIONAL' }, { value: 'NIVEL NACIONAL', title: 'NIVEL NACIONAL' }],
+      caption: 'CERTIFICACION NACIONAL'
+    },
+    {
     src: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpeg',
     thumbnail: 'https://storage.googleapis.com/centro-images/utcr2/certificaciones/1.jpeg',
     thumbnailWidth: 500,

@@ -35,7 +35,7 @@ render(){
           <CardModificado 
             titulo = 'DOCTOR' 
             precio = '150' 
-            imagen = 'https://storage.cloud.google.com/centro-images/doctor.png'
+            imagen = 'https://storage.googleapis.com/centro-images/urepunv/doctor.jpeg'
             descripcion = 'Único pago de $150.'/>
         </Col>
      </Row>
@@ -44,7 +44,7 @@ render(){
           <CardModificado 
             titulo = 'PSICOLÓGO' 
             precio = '150' 
-            imagen = 'https://storage.cloud.google.com/centro-images/psicologo.png'
+            imagen = 'https://storage.googleapis.com/centro-images/urepunv/psicologo.jpeg'
             descripcion = 'Único pago de $150.'/>
         </Col>
         <Col s={12} l={6} m={12}>
