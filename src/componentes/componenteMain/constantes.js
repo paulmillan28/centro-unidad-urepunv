@@ -16,8 +16,9 @@ export const datosCard = [
     imagen: "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
     imagenes: [
       "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
-      "https://storage.googleapis.com/centro-images/fotos_comida/comida2.jpeg"
-
+      "https://storage.googleapis.com/centro-images/fotos_comida/comida2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/comida-utcr2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/comida-utcr3.jpeg"
     ]
   },
   {
@@ -75,7 +76,10 @@ export const datosCard = [
     imagen: 'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
     imagenes: [
       'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/misa/1.jpg'
+      'https://storage.googleapis.com/centro-images/utcr2/misa/1.jpg',
+      "https://storage.googleapis.com/centro-images/unidad_cr/sesion-espiritual.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/sesion-espiritual2.jpeg"
+
     ]
   },
   {
@@ -202,11 +206,12 @@ export const datosTratamiento = [
     titulo: 'TERAPIA ESPIRITUAL',
     descripcion: 'Contamos con diverasas personas que dan ayuda espiritual a los usuarios, donde pueden relajarse y disfrutar de la espiritualidad. ',
     imagenes: [
-      'https://storage.googleapis.com/centro-images/religion.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/misa/1.jpg'
+            'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
+            "https://storage.googleapis.com/centro-images/unidad_cr/sesion-espiritual.jpeg",
+            "https://storage.googleapis.com/centro-images/unidad_cr/sesion-espiritual2.jpeg",
+            'https://storage.googleapis.com/centro-images/utcr2/misa/1.jpg'
     ],
-    imagen: 'https://storage.googleapis.com/centro-images/religion.jpg'
+    imagen:   'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg'
   },
 
   {
