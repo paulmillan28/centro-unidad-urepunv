@@ -339,8 +339,8 @@ export const IMAGES_CERTIFICACIONES =
     {
       src: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
       thumbnail: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
-      thumbnailWidth: 500,
-      thumbnailHeight: 600,
+      thumbnailWidth: 300,
+      thumbnailHeight: 174,
       tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
       caption: 'CONSTANCIA ESTATAL'
     },
