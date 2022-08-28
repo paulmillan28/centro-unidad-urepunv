@@ -380,22 +380,7 @@ export const IMAGES =
 
 export const IMAGES_CERTIFICACIONES =
   [
-    {
-      src: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
-      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
-      thumbnailWidth: 300,
-      thumbnailHeight: 174,
-      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
-      caption: 'CONSTANCIA ESTATAL'
-    },
-    {
-      src: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia2.jpeg',
-      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia2.jpeg',
-      thumbnailWidth: 500,
-      thumbnailHeight: 600,
-      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
-      caption: 'CONSTANCIA ESTATAL'
-    },
+    
     {
     src: 'https://storage.googleapis.com/centro-images/certificaciones/certi.jpg',
     thumbnail: 'https://storage.googleapis.com/centro-images/certificaciones/certi.jpg',
