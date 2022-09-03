@@ -73,6 +73,7 @@ export const datosCard = [
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
     imagen: "https://storage.googleapis.com/centro-images/soldador.png",
     imagenes: [
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanicaIcatsin.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica5.jpeg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica1.jpeg',
@@ -144,6 +145,7 @@ export const datosTratamiento = [
     titulo: "IMPARTICIÓN DE CURSOS ICATSIN",
     descripcion: "Gracias a ICATSIN contamos con diversos cursos sobre electricidad, mecánica, plomería, entre otros. Los usuarios pueden aprender estas profesiones técnicas durante la estancia en la agrupación. ",
     imagenes: [
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanicaIcatsin.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica1.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica5.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica2.jpeg',
