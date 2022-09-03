@@ -15,6 +15,8 @@ export const datosCard = [
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación.",
     imagen: "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_unidad/gorditas2.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/gorditas.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_comida/comida2.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/comida-utcr2.jpeg",
