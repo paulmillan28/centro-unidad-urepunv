@@ -62,12 +62,15 @@ export const datosCard = [
     ]
   },
   {
-    titulo: '¡Estámos vacunados!',
-    descripcion: 'Gracias al personal del imss por venir a vacunar contra la influenza a nuestros usuarios. ',
-    imagen: 'https://storage.googleapis.com/centro-images/utcr2/vacuna/1.jpg',
+    titulo: '¡Campaña de vacunación contra COVID!',
+    descripcion: 'En nuestra agrupación contamos con el apoyo de los servicios de salud para vacunar a nuestros internos con el fín de tener mejor salud.',
+    imagen: 'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna.jpeg',
     imagenes: [
-      'https://storage.googleapis.com/centro-images/utcr2/vacuna/1.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/vacuna/2.jpg'
+      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna1.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna3.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna4.jpeg'
+
     ]
   },
   {
@@ -120,6 +123,14 @@ export const datosCard = [
     imagenes: [
       'https://storage.googleapis.com/centro-images/utcr2/buzon/1.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/3.jpg'
+    ]
+  } , {
+    titulo: '¡Estámos vacunados!',
+    descripcion: 'Gracias al personal del imss por venir a vacunar contra la influenza a nuestros usuarios. ',
+    imagen: 'https://storage.googleapis.com/centro-images/utcr2/vacuna/1.jpg',
+    imagenes: [
+      'https://storage.googleapis.com/centro-images/utcr2/vacuna/1.jpg',
+      'https://storage.googleapis.com/centro-images/utcr2/vacuna/2.jpg'
     ]
   }
 ];
@@ -336,6 +347,31 @@ export const IMAGES =
 
 export const IMAGES_CERTIFICACIONES =
   [
+
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_unidad/ceptca.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_unidad/ceptca.jpeg',
+      thumbnailWidth: 300,
+      thumbnailHeight: 174,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_unidad/ceptca4.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_unidad/ceptca4.jpeg',
+      thumbnailWidth: 300,
+      thumbnailHeight: 174,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_unidad/ceptca3.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_unidad/ceptca3.jpeg',
+      thumbnailWidth: 300,
+      thumbnailHeight: 174,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
     {
       src: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
       thumbnail: 'https://storage.googleapis.com/centro-images/fotos_comida/constancia.jpeg',
