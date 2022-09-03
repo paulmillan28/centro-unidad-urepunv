@@ -73,6 +73,7 @@ export const datosCard = [
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
     imagen: "https://storage.googleapis.com/centro-images/soldador.png",
     imagenes: [
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica5.jpeg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica1.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica2.jpeg',
@@ -144,6 +145,7 @@ export const datosTratamiento = [
     descripcion: "Gracias a ICATSIN contamos con diversos cursos sobre electricidad, mecánica, plomería, entre otros. Los usuarios pueden aprender estas profesiones técnicas durante la estancia en la agrupación. ",
     imagenes: [
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica1.jpeg',
+      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica5.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica2.jpeg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-two.png',
@@ -380,7 +382,30 @@ export const IMAGES =
 
 export const IMAGES_CERTIFICACIONES =
   [
-    
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_urepunv/cepta2.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_urepunv/cepta2.jpeg',
+      thumbnailWidth: 500,
+      thumbnailHeight: 600,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_urepunv/ceptca.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_urepunv/ceptca.jpeg',
+      thumbnailWidth: 300,
+      thumbnailHeight: 174,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
+    {
+      src: 'https://storage.googleapis.com/centro-images/fotos_urepunv/ceptca4.jpeg',
+      thumbnail: 'https://storage.googleapis.com/centro-images/fotos_urepunv/ceptca4.jpeg',
+      thumbnailWidth: 300,
+      thumbnailHeight: 174,
+      tags: [{ value: 'COMISIÓN ESTATAL DE PREVENCIÓN', title: 'COMISIÓN ESTATAL DE PREVENCIÓN' }, { value: 'NIVEL ESTATAL', title: 'NIVEL ESTATAL' }],
+      caption: 'CONSTANCIA ESTATAL'
+    },
     {
     src: 'https://storage.googleapis.com/centro-images/certificaciones/certi.jpg',
     thumbnail: 'https://storage.googleapis.com/centro-images/certificaciones/certi.jpg',
