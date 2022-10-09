@@ -2,8 +2,15 @@ export const datosCard = [
   {
     titulo: "Sesiones terapéuticas",
     descripcion: "Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
-    imagen: "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
+    imagen: "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarsept.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarsept.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarseptiembre.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarseptiembredos.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiapsicologo.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiaseptiembre.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiatresseptiembre.jpeg",
+
       "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/terapia2.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_comida/sesion9.jpeg"
@@ -13,8 +20,10 @@ export const datosCard = [
   {
     titulo: "Conoce nuestros alimentos",
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación.",
-    imagen: "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
+    imagen: "https://storage.googleapis.com/centro-images/fotos_unidad/cocinaseptiembre.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_unidad/cocinaseptiembre.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/cocinadosseptiembre.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/gorditas2.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/gorditas.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_comida/comida.jpeg",
@@ -43,8 +52,11 @@ export const datosCard = [
   {
     titulo: "¡Curso de electricidad!",
     descripcion: "Usuarios en su curso de Electricidad. Impartido por el maestro Marco Polo Felix Murillo de Icatsin.",
-    imagen: "https://storage.googleapis.com/centro-images/unidad_cr/curso1.jpeg",
+    imagen: "https://storage.googleapis.com/centro-images/fotos_unidad/electricidadseptiembre.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_unidad/electricidad.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/electricidadseptiembre.jpeg",
+
       "https://storage.googleapis.com/centro-images/fotos_comida/eletricidad.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_comida/electricidad2.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/curso1.jpeg",
@@ -142,6 +154,11 @@ export const datosTratamiento = [
     titulo: 'CONSEJERÍA DE ADICCIONES',
     descripcion: 'Contamos con profesionales en la consejería para el tratamiento contra las adicciones. Estas personas se encuentran certificadas y debidamente preparadas para ayudar a los internos. ',
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarsept.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarseptiembre.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarseptiembredos.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiaseptiembre.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiatresseptiembre.jpeg",
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/17.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/19.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/20.jpg',
@@ -156,6 +173,9 @@ export const datosTratamiento = [
     titulo: 'IMPARTICIÓN DE CURSOS ICATSIN',
     descripcion: 'Gracias a ICATSIN contamos con diversos cursos sobre electricidad, mecánica, plomería, entre otros. Los usuarios pueden aprender estas profesiones técnicas durante la estancia en la agrupación. ',
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_unidad/electricidad.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/electricidadseptiembre.jpeg",
+
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
       "https://storage.googleapis.com/centro-images/fotos_comida/eletricidad.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_comida/electricidad2.jpeg",
@@ -164,7 +184,7 @@ export const datosTratamiento = [
       "https://storage.googleapis.com/centro-images/unidad_cr/curso3.jpeg"
 
     ],
-    imagen: 'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg'
+    imagen: "https://storage.googleapis.com/centro-images/fotos_unidad/electricidadseptiembre.jpeg"
   },
   {
     titulo: 'TERAPIA OCUPACIONAL',
@@ -190,6 +210,9 @@ export const datosTratamiento = [
     titulo: 'TERAPIA PSICOLÓGICA',
     descripcion: 'Los usuarios cuentan con un psicólogo que los atendera con terapias individuales y también grupales, igualmente tambien tendrán terapias familiares.',
     imagenes: [
+
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiapsicologo.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiaseptiembre.jpeg",
       'https://storage.googleapis.com/centro-images/psicologo/psico-one.jpg',
       "https://storage.googleapis.com/centro-images/fotos_comida/sesion9.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/terapia1.jpeg",
