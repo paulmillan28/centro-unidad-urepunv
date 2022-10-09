@@ -2,8 +2,13 @@ export const datosCard = [
   {
     titulo: "Sesiones de psicología y consejería en adicciones",
     descripcion:"Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
-    imagen:"https://storage.googleapis.com/centro-images/urepunv/sesion1.jpeg",
+    imagen:"https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologicados.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologicados.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologica.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiafamiliarCODEPENDENCIA.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/prevencionrecaidasgrupal.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/Claves para conseguir un ambiente familiar positivo familiar.jpeg",
       "https://storage.googleapis.com/centro-images/urepunv/sesion1.jpeg",
       'https://storage.googleapis.com/centro-images/fotos_urepunv/psicologia.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/platica2.jpeg',
@@ -42,8 +47,10 @@ export const datosCard = [
   {
     titulo: "¡Que delicia!",
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación. ",
-    imagen: 'https://storage.googleapis.com/centro-images/comida/food-one-three.jpg',
+    imagen:  "https://storage.googleapis.com/centro-images/fotos_urepunv/comida.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/comida.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/comidahuevos.jpeg",
       'https://storage.googleapis.com/centro-images/comida/food-one.jpg',
       'https://storage.googleapis.com/centro-images/comida/food-two.jpg',
       'https://storage.googleapis.com/centro-images/comida/food.jpg',
@@ -103,6 +110,7 @@ export const datosCard = [
     descripcion: "Los usuarios del establecimiento disfrutaran de nuevas instalaciones, como lo son estufas de acero inoxidable con campana industrial, sillas, mesas, minisplit, etc.",
     imagen: 'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/colchones.jpeg",
       'https://storage.googleapis.com/centro-images/renovacion/reno-five.jpg',
       'https://storage.googleapis.com/centro-images/renovacion/reno-one.jpg',
       'https://storage.googleapis.com/centro-images/renovacion/reno-two.jpg',
@@ -117,8 +125,12 @@ export const datosCard = [
   {
     titulo: "¡Campaña de vacunación!",
     descripcion: "En nuestra agrupación contamos con el apoyo de los servicios de salud para vacunar a nuestros internos con el fín de tener mejor salud",
-    imagen: 'https://storage.googleapis.com/centro-images/campania-vacunacion/va-one.jpg',
+    imagen: "https://storage.googleapis.com/centro-images/fotos_urepunv/vacuna.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/vacuna.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/vacunados.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/vacunatres.jpeg",
+
       'https://storage.googleapis.com/centro-images/campania-vacunacion/va-one.jpg',
       'https://storage.googleapis.com/centro-images/campania-vacunacion/va-two.jpg',
       "https://storage.googleapis.com/centro-images/urepunv/imss1.jpeg",
@@ -132,6 +144,9 @@ export const datosTratamiento = [
     titulo: "CONSEJERÍA DE ADICCIONES",
     descripcion: "Contamos con profesionales en la consejería para el tratamiento contra las adicciones. Estas personas se encuentran certificadas y debidamente preparadas para ayudar a los internos. ",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiafamiliarCODEPENDENCIA.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/prevencionrecaidasgrupal.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/Claves para conseguir un ambiente familiar positivo familiar.jpeg",
       'https://storage.googleapis.com/centro-images/consejeria/con-one.jpg',
       'https://storage.googleapis.com/centro-images/consejeria/con-two.jpg',
       'https://storage.googleapis.com/centro-images/consejeria/con-three.jpg',
@@ -168,6 +183,8 @@ export const datosTratamiento = [
     titulo: "TERAPIA PSICOLÓGICA",
     descripcion: "Los usuarios cuentan con un psicólogo que los atendera con terapias individuales y también grupales, igualmente tambien tendrán terapias familiares.",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologicados.jpeg",
+      "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologica.jpeg",
       'https://storage.googleapis.com/centro-images/psicologo/psico-one.jpg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/psicologia.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/platica2.jpeg',
@@ -234,7 +251,16 @@ export const datosTratamiento = [
 ];
 
 export const IMAGES =
-  [{
+  [
+    {
+      src: "https://storage.googleapis.com/centro-images/fotos_urepunv/colchones.jpeg",
+      thumbnail: "https://storage.googleapis.com/centro-images/fotos_urepunv/colchones.jpeg",
+      thumbnailWidth: 320,
+      thumbnailHeight: 174,
+      tags: [{ value: "Nuevos colchones", title: "Nuevos colchones" }, { value: "UREPUNV", title: "UREPUNV" }],
+      caption: "Nuevos colchones del establecimiento"
+    },
+    {
     src: 'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
     thumbnail: 'https://storage.googleapis.com/centro-images/novedades/aniversario/ani-one.jpg',
     thumbnailWidth: 320,
