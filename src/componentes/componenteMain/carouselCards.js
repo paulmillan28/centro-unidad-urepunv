@@ -37,14 +37,7 @@ render(){
                 </CardMedia>
                 
                 <CardActions style = {{textAlign : "center"}}>
-               
-                  <Collapsible className="divCollapse">
-                    <CollapsibleItem header='Ver más' icon='keyboard_arrow_down'>
-                    <CardText style = {{textAlign : "justify"}}>
-                     <div className = "cardText">{row.descripcion}</div>
-                   </CardText>
-                    </CollapsibleItem>
-                  </Collapsible>
+
                   <div className = "divButtonVer">
                   <FlatButton style = {(row.imagenes.length === 0 || row.imagenes.length === 1) ? {display : 'none', color : '#347ab6', border : 'solid 1px', verticalAlign : 'middle', width : '100%'} : {display : '', color : '#347ab6', border : 'solid 1px',verticalAlign : 'middle', width: '100%'}} label="Ver más fotografías" onClick={() => this.setState({ isOpen: true, images : row.imagenes })} />
                 </div>

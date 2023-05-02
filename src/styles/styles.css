@@ -4,12 +4,21 @@
   margin: 0 auto;
   width: 75%;
 }
+i.material-icons.medium.divIcon {
+  display: none;
+}
 .row-video{
   margin: 0 auto;
 }
 
+button.btn.btn-contacto {
+  background-color: rgba(0,0,0,.5);
+  border: 2px solid white;
+  font-weight: bold;
+}
+
 footer.page-footer {
-    background-color: #347ab6;
+    background-color: black;
 }
 .nav{
   background: #337ab7;
@@ -273,25 +282,13 @@ i.material-icons.center.divMiddle {
   font-size: 1.5em;
 }
 a.btn.right.btnFacebook {
-  background: white;
-  color: #3579b6;
-  font-weight: bold;
-  font-size: 1.5em;
-}
-
-a.btn.btnFacebook:hover {
-  background: white;
-  color: #3579b6;
-  font-weight: bold;
-  font-size: 1.5em;
-}
-a.btn.btnFacebook {
-  background: #3579b6;
+  background: black;
   color: white;
   font-weight: bold;
   font-size: 1.5em;
-  margin-top: 2%;
+  border: 1px solid white;
 }
+
 .btnGoogleMaps:hover{
   background: white;
   color:  red;
