@@ -1,11 +1,28 @@
 export const datosCard = [
   {
+    titulo: "¡Certificados en Educación Secundaria!",
+    descripcion: "Muchas felicidades a los usuarios de Unidad Terapéutica Costa Rica que decidieron estudiar y que hoy les entregaron su certificado de Educación Secundaria.",
+    imagen: "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342895953_2693117487497711_1896330932762600231_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=txmNehd9leEAX80tp62&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAtJh-f38Wr6YEqd15WFTIRYyuO9ZFFXtidtOhpOU3LWQ&oe=6456D384",
+    imagenes: [
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/343481932_622413992756229_8280577963562712894_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0Bv_mPnvAPQAX8D1m4s&_nc_ht=scontent.fcul1-1.fna&oh=00_AfD7J4auXLasuK2_wBjP9hCODk6xPQPs5V91COJM--OjyQ&oe=645745BB",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342895953_2693117487497711_1896330932762600231_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=txmNehd9leEAX80tp62&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAtJh-f38Wr6YEqd15WFTIRYyuO9ZFFXtidtOhpOU3LWQ&oe=6456D384",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342825225_615074790204113_8562512456913884011_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=653u1s29ezkAX9tbVeq&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAXLK8QXumgsRLoji936vnX7IluwLhokQtx5hbXelJVDg&oe=645622A3"
+
+    ]
+  },
+  {
     titulo: "Sesiones terapéuticas",
     descripcion: "Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
     imagen: "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarsept.jpeg",
     imagenes: [
-      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarsept.jpeg",
-      "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarseptiembre.jpeg",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/334675170_929026814899849_5836248048451007949_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-gyxoMBlRrwAX81KWDE&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCHQ6g0P5nWon2isJN7yb8PeAX0A2Gat8DF2OReyZS4rA&oe=64576E5E",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/335852511_6702262536464119_7728210947041307087_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=YjX8nIui_IQAX-HcjQW&_nc_ht=scontent.fcul1-1.fna&oh=00_AfC6HvU4lNOGvLWr6gWufRWGo1m2fCtg8eVnXQembu8kCw&oe=64563BB4",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342564789_758927265773445_2220219452580699571_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=_hnq3S1ALLkAX8aADNQ&_nc_ht=scontent.fcul1-1.fna&oh=00_AfDVK0tq2J9-9Q6A0lyAGZyQixAaOesJMV-oeM9-QilJ9Q&oe=645741E6",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342879063_1440235860111317_3946969440731146003_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=I-uNjvN9gzsAX-6DCaz&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCv6OJGHsVXab_KQk3it2pMMNqvQgvUuiGTOgs2f5N5pw&oe=6457BEF8",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/336162806_1164999364207007_8724244991822458846_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=sZIKRVjv128AX9dXA5u&_nc_ht=scontent.fcul1-1.fna&oh=00_AfBIwyjNUHkQmIz1ViuRuiiDMQaTLBpcVhipLlQYA4r6mQ&oe=64567143",  
+    "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarsept.jpeg",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/335065747_6187970901287607_5879168089901432310_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=CMtoByxQ1IQAX-joRZi&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCxscOedB4xJ96WRFnfonTIXA-h1cUuR9VJPgWV4Bfojw&oe=64568E3B",
+    "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarseptiembre.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/terapiafamiliarseptiembredos.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/terapiapsicologo.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/terapiaseptiembre.jpeg",
@@ -22,7 +39,10 @@ export const datosCard = [
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación.",
     imagen: "https://storage.googleapis.com/centro-images/fotos_unidad/cocinaseptiembre.jpeg",
     imagenes: [
-      "https://storage.googleapis.com/centro-images/fotos_unidad/cocinaseptiembre.jpeg",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342222297_749790333449677_5952495735870376459_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=RYmxW8BLorEAX85ZpVU&_nc_ht=scontent.fcul1-1.fna&oh=00_AfD369VGzsSY1OacVhggMMppgyvhG52YJ3KyIoMHX1j5mA&oe=6456ACCC",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342844482_276559281362401_2344138124677176434_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wloTalAUiFQAX-VfXbx&_nc_ht=scontent.fcul1-1.fna&oh=00_AfD1KJzxDcK48wFr41KPeA0y-pVxaQwOzBeMFydU0jMY_Q&oe=6457B0C2",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342883694_1422201898185013_6455437906934070789_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=L4ciqPS4ugcAX9U3jGm&_nc_ht=scontent.fcul1-1.fna&oh=00_AfDjHJyGnLyRfC-yAFodTKTkuBNDckcH0vCrfdijs7-Akw&oe=6456466A",
+    "https://storage.googleapis.com/centro-images/fotos_unidad/cocinaseptiembre.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/cocinadosseptiembre.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/gorditas2.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/gorditas.jpeg",
@@ -37,8 +57,18 @@ export const datosCard = [
     descripcion: "Elaboración de roles de canela en nuestro curso de repostería dirigido por la maestra Hellely Arón de Icatsin. Poco a poco los usuarios se han ido soltando y tienen más confianza en ellos mismo.    ",
     imagen: "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
     imagenes: [
-      "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
-      "https://storage.googleapis.com/centro-images/urepunv/pan.jpeg",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/329725100_741204131043096_1881155038938364099_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=fVsQPBZ_6WUAX_xOg2Q&_nc_ht=scontent.fcul1-1.fna&oh=00_AfBN_gRZsgpWp--_xbg7AAHbF_c5SCRbLKNxpJKnqdB1Xg&oe=64572A20",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/329155268_896016801704097_6167432210260710659_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=wGrsokLX8TsAX_ZPW04&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCN2h4rv1ciU7c6JF2IKYE890IsUPGEcr6r7Gpkb8goyA&oe=6456AF91",
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/341365252_903320920955306_7362174370150865097_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0pnffg2OSFEAX_mTPkQ&_nc_ht=scontent.fcul1-1.fna&oh=00_AfDn25mZpj_wDlGPOITbx9gzN-H9MbYuSlVVCMkXyihd8A&oe=645707AB ",
+      'https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/343422393_257660769995442_7916894134441072135_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=nApu48s7jPcAX8d4Tmm&_nc_ht=scontent.fcul1-1.fna&oh=00_AfDgci42a_By7vGSjCgnYEdArQbAx0pVAmn1cZuSiZ-NjA&oe=6457851E',
+      'https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/343443407_256893140032939_2627752922540748097_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=JkOeIvHY-qMAX8GmOvd&_nc_ht=scontent.fcul1-1.fna&oh=00_AfChGtfrHN-By42D0yJYIEDxD1I-lNcCRi-f9u1WiewqmQ&oe=64571CE8',
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/343428565_5864570783670366_3721336786231165604_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=yDfOSXoeahwAX9hnV8l&_nc_ht=scontent.fcul1-1.fna&oh=00_AfA-wT6XM0romZscvSAS_DTRhzFsMFcUdASloFlrdnG-2A&oe=6457B756",
+     "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/340586793_780837456742557_6750727160895742635_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=SPKPW8u2eicAX9jeOf5&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAiyO1_IuSdZx676wR5xDwDMI49jh-m-lkZO8SWVHOYVA&oe=6456193E",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/340935421_170986935846096_5562187249543946188_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ZbTtZjSlvJsAX_qJkjK&_nc_ht=scontent.fcul1-1.fna&oh=00_AfBx_i_vspEWKgY3wigRefU97hGUDqLWsGG9hBIMHKJPOQ&oe=6456A319",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/341175467_6613006235394834_7741142350038115426_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=XhEpnnfhCTUAX-vC8GJ&_nc_ht=scontent.fcul1-1.fna&oh=00_AfC5es1as7RWkEUVXOTTBNs8RdWn5i1lwL9qd9C3jnkZAA&oe=645799A8",
+    "https://storage.googleapis.com/centro-images/unidad_cr/rollos.jpeg",
+    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/328662640_743338813840448_7644267307664017983_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=tkRGQAJ3--kAX-5KNwG&_nc_ht=scontent.fcul1-1.fna&oh=00_AfDlBBEtU0IOlJnPpmcnS6JRPvp-Fa0syyRAuqtuUw1VSQ&oe=645703E6",
+    "https://storage.googleapis.com/centro-images/urepunv/pan.jpeg",
       "https://storage.googleapis.com/centro-images/urepunv/pan2.jpeg",
       "https://storage.googleapis.com/centro-images/urepunv/pan3.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/rollos2.jpeg",
@@ -65,34 +95,14 @@ export const datosCard = [
      ]
   },
   {
-    titulo: "Día Internacional de la Lucha contra el uso indebido y el Tráfico ilícito de Drogas. ",
-    descripcion: "Hoy recibimos en UNIDAD TERAPÉUTICA COSTA RICA a la Comisión Nacional de Prevención y Tratamiento contra las adicciones.   Para celebrar y hacer conciencia en el Día Internacional de la Lucha contra el uso indebido y el Tráfico ilícito de Drogas.  Todas estas acciones son para crear conciencia sobre los impactos de la situación mundial de las Drogas y sus consecuencias en la salud.",
-    imagen: "https://storage.googleapis.com/centro-images/unidad_cr/comision1.jpeg",
-    imagenes: [
-      "https://storage.googleapis.com/centro-images/unidad_cr/comision1.jpeg",
-      "https://storage.googleapis.com/centro-images/unidad_cr/comision2.jpeg",
-      "https://storage.googleapis.com/centro-images/unidad_cr/comision3.jpeg"
-
-    ]
-  },
-  {
-    titulo: '¡Campaña de vacunación contra COVID!',
-    descripcion: 'En nuestra agrupación contamos con el apoyo de los servicios de salud para vacunar a nuestros internos con el fín de tener mejor salud.',
-    imagen: 'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna.jpeg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna.jpeg',
-      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna1.jpeg',
-      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna3.jpeg',
-      'https://storage.googleapis.com/centro-images/fotos_unidad/vacuna4.jpeg'
-
-    ]
-  },
-  {
     titulo: '¡Celebración de la palabra de dios!',
     descripcion: 'Misa en Unidad terapéutica Costa Rica impartida por el parroco de la comunidad',
     imagen: 'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
     imagenes: [
-      'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
+      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/340094817_168237862830738_6631290094523399768_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=_34A9kIMd6gAX8co_Ob&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCNsgRRkQImiV2DEPljIJ5mfAU_8CVARgGFz5woFEMfmQ&oe=645780AD",
+     "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/340652912_179898691169088_5365744436581284863_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ckU25yychX8AX_Hdq02&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAQqQknvNvAcx48EOvFjmB3RLBEA4l94iAhspnceN32aA&oe=6457BD10",
+     "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/340786507_918854702568906_8370598034682719706_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=bSykJ9mGMMYAX82B7JU&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAVrDmDhHXyJp5w-vcms3ZvQGKzEPyheed-ftq195fsTg&oe=64564096",
+     'https://storage.googleapis.com/centro-images/utcr2/misa/2.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/misa/1.jpg',
       "https://storage.googleapis.com/centro-images/unidad_cr/sesion-espiritual.jpeg",
       "https://storage.googleapis.com/centro-images/unidad_cr/sesion-espiritual2.jpeg"
@@ -137,14 +147,6 @@ export const datosCard = [
     imagenes: [
       'https://storage.googleapis.com/centro-images/utcr2/buzon/1.jpg',
       'https://storage.googleapis.com/centro-images/utcr2/Instalaciones/3.jpg'
-    ]
-  } , {
-    titulo: '¡Estámos vacunados!',
-    descripcion: 'Gracias al personal del imss por venir a vacunar contra la influenza a nuestros usuarios. ',
-    imagen: 'https://storage.googleapis.com/centro-images/utcr2/vacuna/1.jpg',
-    imagenes: [
-      'https://storage.googleapis.com/centro-images/utcr2/vacuna/1.jpg',
-      'https://storage.googleapis.com/centro-images/utcr2/vacuna/2.jpg'
     ]
   }
 ];
