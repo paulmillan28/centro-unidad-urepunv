@@ -28,7 +28,7 @@ render(){
             <Card >
                 <CardMedia
                   style={{height:'300px', cursor: 'pointer'}}
-                  onClick={() => this.setState({ isOpen: true, images : row.imagenes })}                                    
+                  onClick={() => this.setState({ isOpen: true, images : row.imagenes, photoIndex:0})}                                    
                   overlay={<CardTitle style = {{textAlign : "center"}} title={<div className = "cardText">{row.titulo}</div>}/>}
                 >
                 <MediaBox 
@@ -46,7 +46,7 @@ render(){
                     </CollapsibleItem>
                   </Collapsible>
                   <div className = "divButtonVer">
-                  <FlatButton style = {(row.imagenes.length === 0 || row.imagenes.length === 1) ? {display : 'none', color : '#347ab6', border : 'solid 1px', verticalAlign : 'middle', width : '100%'} : {display : '', color : '#347ab6', border : 'solid 1px',verticalAlign : 'middle', width: '100%'}} label="Ver más fotografías" onClick={() => this.setState({ isOpen: true, images : row.imagenes })} />
+                  <FlatButton style = {(row.imagenes.length === 0 || row.imagenes.length === 1) ? {display : 'none', color : '#347ab6', border : 'solid 1px', verticalAlign : 'middle', width : '100%'} : {display : '', color : '#347ab6', border : 'solid 1px',verticalAlign : 'middle', width: '100%'}} label="Ver más fotografías" onClick={() => this.setState({ isOpen: true, images : row.imagenes, photoIndex: 0})} />
                 </div>
                 </CardActions>
           </Card>
