@@ -4,8 +4,6 @@ export const datosCard = [
     descripcion:"Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
     imagen:"https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologicados.jpeg",
     imagenes: [
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342343950_1647180042465457_9047327385669266700_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=gQsC1Ipr1zcAX-1J1Vr&_nc_ht=scontent.fcul1-1.fna&oh=00_AfBWuhXGpBpfffhTpxMJJVNyWWF9hKHusRxvDT7vSgPa_g&oe=64572F4E",
-    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/333313364_774246857653340_4894330347963101423_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=6M-jt-zFGKUAX_F_1d6&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCg4ji3_LZaxZy80OxGS1EAWRgsrbV_mooIi5FM-p37Pg&oe=6456A3BF",
       "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologicados.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiapsicologica.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_urepunv/terapiafamiliarCODEPENDENCIA.jpeg",
@@ -51,8 +49,6 @@ export const datosCard = [
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación. ",
     imagen:  "https://storage.googleapis.com/centro-images/fotos_urepunv/comida.jpeg",
     imagenes: [
-"https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/339418130_959308695233548_5811910643868948882_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=VN_8zPT7_HMAX8DgFOy&_nc_ht=scontent.fcul1-1.fna&oh=00_AfBP0OM5l3_Bgx-gIrcIehzr8h9q4MKKxlYcGcuwPLzy8w&oe=6456E2D1",
-"https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/339295694_828080985188453_6163768857574877762_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=JsFMQdHHf2EAX-1xnIm&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCwSBSSY6PrWIApztF2rcXWYIY3K9DnFm5kZM3AFice3g&oe=6456D3EC",     
 "https://storage.googleapis.com/centro-images/fotos_urepunv/comida.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_urepunv/comidahuevos.jpeg",
       'https://storage.googleapis.com/centro-images/comida/food-one.jpg',
@@ -82,13 +78,8 @@ export const datosCard = [
   {
     titulo: "¡ICATSIN nos apoya con cursos de soldadura, electricidad y refrigeración!",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
-    imagen: "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/333403188_567656058642145_1755587989279351814_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=4vDTZbc4CsQAX83I1pO&_nc_ht=scontent.fcul1-1.fna&oh=00_AfA8ny1e00l1y7nTAkRir2jO52UNIoJOlX7bR7Xo7aRTlA&oe=6456B286",
+    imagen: "https://storage.googleapis.com/centro-images/fotos_urepunv/mecanicaIcatsin.jpeg",
     imagenes: [
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/332119386_943523883323016_2958537225140662592_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=YlRnPNBAqaYAX9nMXQy&_nc_ht=scontent.fcul1-1.fna&oh=00_AfDLTOY6Q_DkrdAHLPGU6eWTdWGAjsusiRBTeeHwSvXyGg&oe=6457032D",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/333403188_567656058642145_1755587989279351814_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=4vDTZbc4CsQAX83I1pO&_nc_ht=scontent.fcul1-1.fna&oh=00_AfA8ny1e00l1y7nTAkRir2jO52UNIoJOlX7bR7Xo7aRTlA&oe=6456B286",
-     "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/332132275_509857791327948_4439188652884189761_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=W86a9rEB6ucAX9TY9_8&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAq4-K5cNlCiU9myBAPrsEPiHS-xBMQELN01E9mjPbaBQ&oe=64563CD3",
-     "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/326320968_1245158832740189_5277555856440848033_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=OVtBRNbgeXAAX-ZFGWF&_nc_ht=scontent.fcul1-1.fna&oh=00_AfBneIFj018ZRofneTiZ0L5gzRsl8-gE-c23NwUBmEgK-w&oe=6456ED4C",
-    "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/326333161_726514655658552_6508888740776090582_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ducnBfYFB7IAX8W7COk&_nc_ht=scontent.fcul1-1.fna&oh=00_AfCMjsc03VSKP_iTFWuwHnHCytUhkWe2n8N4vEASuBoqMw&oe=6456BC3E",
      'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanicaIcatsin.jpeg',
       'https://storage.googleapis.com/centro-images/fotos_urepunv/mecanica5.jpeg',
       'https://storage.googleapis.com/centro-images/icatsin/sold-one.jpg',
