@@ -2,11 +2,12 @@ export const datosCard = [
   {
     titulo: "¡Certificados en Educación Secundaria!",
     descripcion: "Muchas felicidades a los usuarios de Unidad Terapéutica Costa Rica que decidieron estudiar y que hoy les entregaron su certificado de Educación Secundaria.",
-    imagen: "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342895953_2693117487497711_1896330932762600231_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=txmNehd9leEAX80tp62&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAtJh-f38Wr6YEqd15WFTIRYyuO9ZFFXtidtOhpOU3LWQ&oe=6456D384",
+    imagen:       "https://storage.googleapis.com/centro-images/unidad_cr/escuela2.jpeg",
+
     imagenes: [
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/343481932_622413992756229_8280577963562712894_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0Bv_mPnvAPQAX8D1m4s&_nc_ht=scontent.fcul1-1.fna&oh=00_AfD7J4auXLasuK2_wBjP9hCODk6xPQPs5V91COJM--OjyQ&oe=645745BB",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342895953_2693117487497711_1896330932762600231_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=txmNehd9leEAX80tp62&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAtJh-f38Wr6YEqd15WFTIRYyuO9ZFFXtidtOhpOU3LWQ&oe=6456D384",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342825225_615074790204113_8562512456913884011_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=653u1s29ezkAX9tbVeq&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAXLK8QXumgsRLoji936vnX7IluwLhokQtx5hbXelJVDg&oe=645622A3"
+      "https://storage.googleapis.com/centro-images/unidad_cr/escuela1.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/escuela2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/escuela3.jpeg",
 
     ]
   },
@@ -33,6 +34,11 @@ export const datosCard = [
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación.",
     imagen: "https://storage.googleapis.com/centro-images/fotos_unidad/cocinaseptiembre.jpeg",
     imagenes: [
+      "https://storage.googleapis.com/centro-images/unidad_cr/comida.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/comida2.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/comida3.jpeg",
+      "https://storage.googleapis.com/centro-images/unidad_cr/comida4.jpeg",
+
     "https://storage.googleapis.com/centro-images/fotos_unidad/cocinaseptiembre.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/cocinadosseptiembre.jpeg",
       "https://storage.googleapis.com/centro-images/fotos_unidad/gorditas2.jpeg",
