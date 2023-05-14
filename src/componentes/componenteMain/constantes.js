@@ -2,85 +2,91 @@ export const datosCard = [
   {
     titulo: "¡Promociones! 💜",
     descripcion:"Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
-    imagen:"https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342633269_1301213320479056_6952120174449196317_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=3jdxnzrfGF8AX-5E4-N&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAeaIyGWPZAjjqjmG-5nnSd0T5XUxK-CG4m_hZ-UZIXTA&oe=645648A6",
+    imagen:"https://storage.googleapis.com/centro-images/annel/annel19.jpeg",
     imagenes: [
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/342633269_1301213320479056_6952120174449196317_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=3jdxnzrfGF8AX-5E4-N&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAeaIyGWPZAjjqjmG-5nnSd0T5XUxK-CG4m_hZ-UZIXTA&oe=645648A6",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/341850291_6155487494515803_3565424295333905754_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=SJaYJZ3g91EAX_AcEEk&_nc_ht=scontent.fcul1-1.fna&oh=00_AfDmzSD36awsb5ThvAbpQtnS-H1Pdv66uT9q3lOqKWZayg&oe=64559963"
+      "https://storage.googleapis.com/centro-images/annel/annel18.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel19.jpeg"
 
     ]
   },
   {
     titulo: "¡Look morado! 💜",
     descripcion:"Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
-    imagen:"https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/344546722_991651055084620_391230077984035011_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Sv9qXoklea8AX8Rf4l8&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAWdfv3u4nEWnh2Ey_pM7GduCZZ9oyKqJDhN7peN6G9lg&oe=64556F32",
+    imagen:      "https://storage.googleapis.com/centro-images/annel/annel13.jpeg",
     imagenes: [
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/344546722_991651055084620_391230077984035011_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=Sv9qXoklea8AX8Rf4l8&_nc_ht=scontent.fcul1-1.fna&oh=00_AfAWdfv3u4nEWnh2Ey_pM7GduCZZ9oyKqJDhN7peN6G9lg&oe=64556F32",
-      "https://scontent.fcul1-1.fna.fbcdn.net/v/t39.30808-6/344270991_188766547375443_4647588950804408873_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=KbXfUqFOOPIAX8sadPw&_nc_oc=AQlByfrVUCAST2sXLrM1TkZd7HTkQICsVvsAuZDvRLGCvtvWbwMfPO6gFdD1i8t_IfkBmrk3ld13OQKL9MzhM7S8&_nc_ht=scontent.fcul1-1.fna&oh=00_AfByxA97LKpUfOR0E5NY68bAHBrvBNGQVGgxvGGLhpP4eQ&oe=64547531"
+      "https://storage.googleapis.com/centro-images/annel/annel13.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel12.jpeg"
 
     ]
   },
   {
     titulo: "¡Bella novia 🤍 para look de curso!",
     descripcion:"Contamos con sesiones individuales, grupales y familiares sobre diversos temas que ayuden al interno y su entorno a superar esta enfermedad.",
-    imagen:"https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342711528_605177088309756_2607698865383917323_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=fYf9c1nJ32gAX-lsxd1&_nc_ht=scontent.fcul2-1.fna&oh=00_AfC5wuSkj5SL8rLeNLJxU8k98xaI_DGrSHNqN0jfYTox6w&oe=6453B02B",
+    imagen:      "https://storage.googleapis.com/centro-images/annel/annel7.jpeg",
     imagenes: [
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342711528_605177088309756_2607698865383917323_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=fYf9c1nJ32gAX-lsxd1&_nc_ht=scontent.fcul2-1.fna&oh=00_AfC5wuSkj5SL8rLeNLJxU8k98xaI_DGrSHNqN0jfYTox6w&oe=6453B02B",
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342698735_525596249575091_5265668016328017974_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ttTb9PTo4zoAX_IoZwl&_nc_ht=scontent.fcul2-1.fna&oh=00_AfDm7eLkDonWVNXosjGmPQgmbp1NfC05umxa-9iK8zQ77Q&oe=6453AF30"
+      "https://storage.googleapis.com/centro-images/annel/annel7.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel6.jpeg"
 
     ]
   },
   {
     titulo: "¡Look social! 🤩",
     descripcion:"Muchas gracias a toda la comunidad que nos acompañó en este reconfortante evento. Se entregaron certificados como terminación de cursos de mecánica y refrigeración.",
-    imagen:"https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342693477_1237508590493211_3612882319022777576_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=OEpnLl4drSsAX_o4J2y&_nc_ht=scontent.fcul2-1.fna&oh=00_AfBK8PBLO7E7WI9pi5LV3t1S2ozX8gDzeag6ofIM3ewmPw&oe=6453D82C",
-    imagenes: [
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342693477_1237508590493211_3612882319022777576_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=OEpnLl4drSsAX_o4J2y&_nc_ht=scontent.fcul2-1.fna&oh=00_AfBK8PBLO7E7WI9pi5LV3t1S2ozX8gDzeag6ofIM3ewmPw&oe=6453D82C",
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342714481_1327556734861342_5615836414746425929_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ccmD0lHd7OQAX-o31sv&_nc_ht=scontent.fcul2-1.fna&oh=00_AfABT7SoFsKatFOxzJ3bOIe2wxsLXKBp-arWWBYN5oH4_g&oe=6453ED89",
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342700401_943170186944097_4947801322888304739_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=VAXNYpTZb4wAX9NjKwA&_nc_ht=scontent.fcul2-1.fna&oh=00_AfB3BBvqt1VX-7WSdqqdhQRsBXn9ILDMkAZ3saOnWxKFmA&oe=645535B9",
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342693477_1237508590493211_3612882319022777576_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=OEpnLl4drSsAX_o4J2y&_nc_ht=scontent.fcul2-1.fna&oh=00_AfBK8PBLO7E7WI9pi5LV3t1S2ozX8gDzeag6ofIM3ewmPw&oe=6453D82C"
+    imagen:      "https://storage.googleapis.com/centro-images/annel/annel4.jpeg",
 
+    imagenes: [
+      "https://storage.googleapis.com/centro-images/annel/annel4.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel5.jpeg",
     ]
   },
   {
     titulo: "¡Solo lo mejor para ti! 🤍 ",
     descripcion:"Hoy el párroco de Costa Rica Carlos López ofició misa en un Rayo de Esperanza por una nueva vida.",
-    imagen:"https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342212509_1638280173287373_5763782877748574665_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=oTxP5kFCSOAAX_bScA2&_nc_ht=scontent.fcul2-1.fna&oh=00_AfBVqF7T4NLlpprPgTXuapFykw161T9S0NoKwtIrpjgtpQ&oe=64539370",
+    imagen:       "https://storage.googleapis.com/centro-images/annel/annel11.jpeg",
+
     imagenes: [
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342212509_1638280173287373_5763782877748574665_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=oTxP5kFCSOAAX_bScA2&_nc_ht=scontent.fcul2-1.fna&oh=00_AfBVqF7T4NLlpprPgTXuapFykw161T9S0NoKwtIrpjgtpQ&oe=64539370"
+       "https://storage.googleapis.com/centro-images/annel/annel11.jpeg"
     ]
   },
   {
     titulo: "¡Sociales! 🤩",
     descripcion: "Éstas son algunas de nuestras comidas que disfrutan nuestros ingresados. Además de que contamos con un nutriologo que forma el sistema de alimentación de esta agrupación. ",
-    imagen:  "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342489052_1383976519102625_8532183866009850708_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=i28Tre3bCT8AX9lRkBI&_nc_ht=scontent.fcul2-1.fna&oh=00_AfCVwSCULaTqd1fk0WWKSNt1OWFp0hUKb0slsNx1xwoCaw&oe=6454239C",
+    imagen:       "https://storage.googleapis.com/centro-images/annel/annel10.jpeg",
     imagenes: [
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342489052_1383976519102625_8532183866009850708_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=i28Tre3bCT8AX9lRkBI&_nc_ht=scontent.fcul2-1.fna&oh=00_AfCVwSCULaTqd1fk0WWKSNt1OWFp0hUKb0slsNx1xwoCaw&oe=6454239C",
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342408503_5495685903865896_7937089105526220634_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=ymQrUifmu3cAX-9AfL3&_nc_ht=scontent.fcul2-1.fna&oh=00_AfCaE0XxSx7XM6goDppjXYwG2C66oC_VO4_xjJEUw5Rfiw&oe=6454AE4A"
+      "https://storage.googleapis.com/centro-images/annel/annel8.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel10.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel9.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel4.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel5.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel16.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel17.jpeg"
     ]
   },
   {
     titulo: "¡pink! 💖",
     descripcion: "ICATSIN esta impartiendo cursos de soldadura en este establecimiento. Todos los días reciben clases. ICATSIN otorgará un documento que será válido.",
-    imagen: "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342179499_550671400528616_3903394667297204170_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=u345qOPMQCUAX-CQ0SD&_nc_ht=scontent.fcul2-1.fna&oh=00_AfCCazlXm_KElD_4JRcv4KFK1WxCyXgIa4-Rh775qzOcIg&oe=6454E69C",
+    imagen:       "https://storage.googleapis.com/centro-images/annel/annel14.jpeg",
     imagenes: [
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342179499_550671400528616_3903394667297204170_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=u345qOPMQCUAX-CQ0SD&_nc_ht=scontent.fcul2-1.fna&oh=00_AfCCazlXm_KElD_4JRcv4KFK1WxCyXgIa4-Rh775qzOcIg&oe=6454E69C"
+      "https://storage.googleapis.com/centro-images/annel/annel14.jpeg"
 
     ]
   },
   {
     titulo: "¡Look glam! 💛",
     descripcion: "Con una porra de “sí se puede”, Gregorio Germán Aguilar recibe el premio en la categoría Adicto Rehabilitado. El director de este establecimiento es galardolanado con este premio que es reconociendo su merito ciudadano. ",
-    imagen: 'https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/341892845_922760602353401_2036410043326321165_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=LoTy_wfSmkQAX_UCDJ1&_nc_ht=scontent.fcul2-1.fna&oh=00_AfAkDu5a1VQ4DUhLIL8qt28p-1CqZ1eyDdTlJXSaW5EXMw&oe=6453BD38',
+    imagen:       "https://storage.googleapis.com/centro-images/annel/annel15.jpeg",
+
     imagenes: [
-      'https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/341892845_922760602353401_2036410043326321165_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=LoTy_wfSmkQAX_UCDJ1&_nc_ht=scontent.fcul2-1.fna&oh=00_AfAkDu5a1VQ4DUhLIL8qt28p-1CqZ1eyDdTlJXSaW5EXMw&oe=6453BD38'
+      "https://storage.googleapis.com/centro-images/annel/annel15.jpeg",
     ]
   },
   {
     titulo: "¡Smokey eye cafe! 🤎",
     descripcion: "Los usuarios del establecimiento disfrutaran de nuevas instalaciones, como lo son estufas de acero inoxidable con campana industrial, sillas, mesas, minisplit, etc.",
-    imagen: 'https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342223167_2565171970300264_1519124626183134692_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iRNTqTONl-YAX_46U8q&_nc_ht=scontent.fcul2-1.fna&oh=00_AfCNMHN_BtiQ48CxdKrh6kB9G_kj3v5P3UiG04ekNShBUA&oe=6453BC3B',
+    imagen:       "https://storage.googleapis.com/centro-images/annel/annel16.jpeg",
     imagenes: [
-      "https://scontent.fcul2-1.fna.fbcdn.net/v/t39.30808-6/342223167_2565171970300264_1519124626183134692_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=iRNTqTONl-YAX_46U8q&_nc_ht=scontent.fcul2-1.fna&oh=00_AfCNMHN_BtiQ48CxdKrh6kB9G_kj3v5P3UiG04ekNShBUA&oe=6453BC3B"
+      "https://storage.googleapis.com/centro-images/annel/annel16.jpeg",
+      "https://storage.googleapis.com/centro-images/annel/annel17.jpeg"
     ]
   }
 ];
